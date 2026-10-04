@@ -1,1 +1,9 @@
 Dynamic scan of key announcements, guidance and similar, legislation and case law in Canadian privacy and AI.
+
+Live site: https://tonhs.github.io/Privacy-and-AI-Reg-Scan/
+
+- index.html  page design and rendering
+- scan.json   all scan content (items, monthly brief, watch list)
+- CLAUDE.md   the update routine Claude follows when refreshing the scan
+
+AI-assisted; general information, not legal advice.

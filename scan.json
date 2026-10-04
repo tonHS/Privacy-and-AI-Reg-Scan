@@ -1,0 +1,672 @@
+{
+  "asOf": "2026-10-04",
+  "brief": [
+    {
+      "title": "Federal privacy reform is back.",
+      "text": "Bill C-36 would replace PIPEDA with penalties up to $10M or 3% of global revenue. It is not law yet, but it is the third try and has momentum.",
+      "sources": [
+        [
+          "LEGISinfo: Bill C-36",
+          "https://www.parl.ca/legisinfo/en/bill/45-1/c-36"
+        ],
+        [
+          "openparliament.ca",
+          "https://openparliament.ca/bills/45-1/C-36/"
+        ]
+      ]
+    },
+    {
+      "title": "Regulators are testing AI against existing law.",
+      "text": "The OpenAI findings and the Clearview appeal both say \"publicly available\" online data is not a free pass.",
+      "sources": [
+        [
+          "OPC on OpenAI",
+          "https://www.priv.gc.ca/en/opc-news/speeches-and-statements/2026/s-d_260506/"
+        ],
+        [
+          "Clearview, 2026 BCCA 67",
+          "https://www.dww.com/articles/clearview-ai-breached-bc-privacy-law-appeal-court-holds"
+        ]
+      ]
+    },
+    {
+      "title": "Deletion and anonymization are being checked.",
+      "text": "Loblaw was found to have kept \"anonymized\" purchase histories that could still identify people. Stripping names is not enough.",
+      "sources": [
+        [
+          "OPC Loblaw findings",
+          "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_260305/"
+        ]
+      ]
+    },
+    {
+      "title": "Children are the theme of 2026.",
+      "text": "An under-16 social media bill, a children's privacy code in preparation, and a global sweep that found most age checks easy to bypass.",
+      "sources": [
+        [
+          "Bill C-34 backgrounder",
+          "https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-introduces-legislation-to-combat-online-harms-particularly-those-impacting-children.html"
+        ],
+        [
+          "OPC children's code",
+          "https://www.priv.gc.ca/en/about-the-opc/what-we-do/consultations/completed-consultations/consultation-children-code/report_children-code_2026/"
+        ],
+        [
+          "Global sweep summary",
+          "https://www.carters.ca/?p=15717"
+        ]
+      ]
+    }
+  ],
+  "stages": [
+    "Introduced",
+    "2nd reading",
+    "Committee",
+    "3rd reading",
+    "Senate",
+    "Royal assent"
+  ],
+  "watch": [
+    {
+      "when": "Any day",
+      "what": "Supreme Court decision in Facebook v. Privacy Commissioner",
+      "why": "First top-court ruling on what \"meaningful consent\" means under PIPEDA."
+    },
+    {
+      "when": "Fall 2026",
+      "what": "Bill C-36 vote at second reading and referral to committee",
+      "why": "Committee hearings are where business and civil society get to shape the text."
+    },
+    {
+      "when": "Fall 2026",
+      "what": "Bill C-22 (lawful access) in the Senate",
+      "why": "Senate amendments could narrow what service providers must hand over or retain."
+    },
+    {
+      "when": "No date set",
+      "what": "OPC draft Children's Privacy Code",
+      "why": "Will set expectations for any service likely to be used by children."
+    },
+    {
+      "when": "After Sept 23",
+      "what": "Federal response to the AI transparency consultation",
+      "why": "May lead to rules on labelling AI content and reporting AI incidents."
+    },
+    {
+      "when": "No date set",
+      "what": "Privacy Act (federal public sector) modernization bill",
+      "why": "Treasury Board is developing proposals; the Commissioner endorsed them in August."
+    }
+  ],
+  "items": [
+    {
+      "id": "c36",
+      "date": "2026-06-15",
+      "type": "legislation",
+      "jur": "FED",
+      "priority": "prepare",
+      "title": "Bill C-36: a new federal private-sector privacy law is before Parliament",
+      "what": "The government has tabled the Protecting Privacy and Consumer Data Act. It would replace the privacy part of PIPEDA, the law most Canadian businesses follow today. The House has been debating it since June, including after Parliament returned in September.",
+      "why": "If it passes, privacy mistakes could cost real money: penalties of up to $10 million or 3% of worldwide revenue, and people could sue after a regulator finds a violation. Nothing changes for you yet, but this is the moment to find out what personal information you hold and where it goes.",
+      "who": [
+        "smb",
+        "biz",
+        "tech",
+        "health"
+      ],
+      "stage": 1,
+      "expert": [
+        "Repeals Part 1 of PIPEDA and enacts the Protecting Privacy and Consumer Data Act. AIDA is not revived; AI regulation is left out of this bill.",
+        "Enforcement moves to a new federal commission with direct power to impose administrative monetary penalties (greater of $10M or 3% of gross global revenue). Review is by the Federal Court rather than C-27's proposed Personal Information and Data Protection Tribunal.",
+        "\"Personal information\" expressly includes inferences about an individual. New \"sensitive information\" category covers children's information, racial or ethnic origin, political opinions, religious beliefs and biometrics.",
+        "Anonymization standard is risk-based: no reasonably foreseeable risk of re-identification. De-identified data remains personal information.",
+        "Consent exceptions for business activities and legitimate interests (now extended to disclosure), conditioned on a documented privacy impact assessment the Commission can request.",
+        "Privacy impact assessment required before transferring personal information outside Canada, which goes beyond C-27.",
+        "Right to an explanation of predictions, recommendations or decisions by automated systems with significant impacts.",
+        "Private right of action following a Commission finding of contravention."
+      ],
+      "cite": "Bill C-36, 45th Parl., 1st Sess. Sponsor: Hon. Evan Solomon, Minister of Artificial Intelligence and Digital Innovation. First reading June 15, 2026.",
+      "sources": [
+        [
+          "LEGISinfo: Bill C-36",
+          "https://www.parl.ca/legisinfo/en/bill/45-1/c-36"
+        ],
+        [
+          "openparliament.ca summary",
+          "https://openparliament.ca/bills/45-1/C-36/"
+        ],
+        [
+          "WeirFoulds analysis",
+          "https://www.weirfoulds.com/bill-c-36-and-the-future-of-canadas-federal-private-sector-privacy-law-what-has-changed-what-it-means-and-what-to-do-now"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "c34",
+      "date": "2026-06-10",
+      "type": "legislation",
+      "jur": "FED",
+      "priority": "watch",
+      "title": "Bill C-34: Safe Social Media Act would restrict accounts for under-16s and cover AI chatbots",
+      "what": "A companion to C-36 that sets safety duties for social media platforms and AI chatbot services, including an under-16 account restriction, tools to block and report harmful content, and labelling of AI-generated content. A new Digital Safety Commission would enforce it.",
+      "why": "Most small organizations won't be regulated directly. If you run an online community, app or chatbot used by young people, watch this closely, because age checks raise their own privacy questions.",
+      "who": [
+        "tech"
+      ],
+      "stage": 1,
+      "expert": [
+        "Part 1 enacts the Digital Safety Act: duties to act responsibly, protect children (design features, age restrictions), label synthetic content, remove CSAM and non-consensual intimate content, and file digital safety plans.",
+        "Under-16 account restriction can be exempted where the regulator is satisfied sufficient safeguards exist.",
+        "Part 2 creates the Digital Safety Commission of Canada with audit, compliance-order and AMP powers.",
+        "Privacy angle: accredited researchers get a regulator-supervised, \"privacy-preserving\" route to platform data. Age-assurance methods are left to regulation and guidance."
+      ],
+      "cite": "Bill C-34, 45th Parl., 1st Sess. Introduced June 10, 2026 (Canadian Heritage).",
+      "sources": [
+        [
+          "Government backgrounder",
+          "https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-introduces-legislation-to-combat-online-harms-particularly-those-impacting-children.html"
+        ],
+        [
+          "openparliament.ca",
+          "https://openparliament.ca/bills/45-1/C-34/"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "c22",
+      "date": "2026-06-18",
+      "type": "legislation",
+      "jur": "FED",
+      "priority": "watch",
+      "title": "Bill C-22: lawful access bill has passed the House and is in the Senate",
+      "what": "This bill makes it easier for police and CSIS to get information from online service providers, such as confirming whether a provider has a customer, and requires providers to be technically able to help with authorized requests.",
+      "why": "If you provide internet, messaging, hosting or other electronic services, this could create new obligations to respond to requests and keep certain data. The Privacy Commissioner has asked for it to be narrowed.",
+      "who": [
+        "telecom",
+        "tech"
+      ],
+      "stage": 4,
+      "expert": [
+        "Part 1 amends the Criminal Code and related statutes: expedited confirmation of subscriber information, clarified authority to examine computer data, and orders for transmission data held by foreign providers. Critics flag a \"reasonable suspicion\" threshold for some powers.",
+        "Part 2 enacts the Supporting Authorized Access to Information Act, imposing capability obligations on electronic service providers, including possible metadata retention.",
+        "OPC (May 26, 2026) urged: a closed list of subscriber identifiers, limiting demands to telecom providers, a necessity and proportionality test, protection of encryption, and a carve-out letting providers report to privacy regulators.",
+        "Successor to the lawful-access parts of Bill C-2 (2025)."
+      ],
+      "cite": "Bill C-22, Lawful Access Act, 2026. Sponsor: Hon. Gary Anandasangaree, Minister of Public Safety. At second reading in the Senate as of June 18, 2026.",
+      "sources": [
+        [
+          "OPC submission to SECU",
+          "https://www.priv.gc.ca/en/opc-actions-and-decisions/advice-to-parliament/2026/parl_260526/"
+        ],
+        [
+          "openparliament.ca",
+          "https://openparliament.ca/bills/45-1/C-22/"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "c8",
+      "date": "2026-06-15",
+      "type": "legislation",
+      "jur": "FED",
+      "priority": "prepare",
+      "title": "Bill C-8: critical infrastructure cybersecurity law received Royal Assent",
+      "what": "After two earlier attempts, Canada now has a law requiring operators of critical federally regulated systems to run cybersecurity programs and report cyber incidents. It also gives the government new powers over telecom security.",
+      "why": "If you are a designated operator, or a vendor to one, expect new contract terms and reporting duties once the details are set by regulation. For everyone else, this is a sign that incident reporting is becoming the norm.",
+      "who": [
+        "telecom",
+        "biz"
+      ],
+      "stage": 5,
+      "expert": [
+        "Enacts the Critical Cyber Systems Protection Act and amends the Telecommunications Act.",
+        "Designated operators in federally regulated critical sectors must establish cybersecurity programs, manage supply-chain risk, and report cybersecurity incidents.",
+        "Most operational detail (which operators, reporting windows) depends on orders and regulations; track coming-into-force orders before assuming obligations apply.",
+        "Timeline: introduced June 18, 2025; passed House March 26, 2026; Senate June 4, 2026; Royal Assent June 15, 2026 (S.C. 2026, c. 9)."
+      ],
+      "cite": "S.C. 2026, c. 9 (former Bill C-8).",
+      "sources": [
+        [
+          "openparliament.ca",
+          "https://openparliament.ca/bills/45-1/C-8/"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "openai",
+      "date": "2026-05-06",
+      "type": "regulator",
+      "jur": "MULTI",
+      "priority": "act",
+      "title": "OpenAI breached Canadian privacy law in building ChatGPT, four commissioners find",
+      "what": "The federal, Quebec, BC and Alberta privacy commissioners jointly found that OpenAI collected too much personal information to train ChatGPT, including sensitive information, without proper consent, and that people could not easily access, correct or delete it. OpenAI agreed to limit personal information used to train new models.",
+      "why": "If you build or buy AI tools, regulators expect you to know what personal data went into them, to be able to fix inaccurate outputs about people, and to honour access and deletion requests. \"It was on the internet\" does not answer those questions.",
+      "who": [
+        "tech",
+        "biz",
+        "smb"
+      ],
+      "expert": [
+        "Well-founded on: over-broad collection for training (including sensitive information), consent and transparency, accuracy of outputs about individuals, access and correction/deletion, and accountability.",
+        "Outcome: well-founded and conditionally resolved, subject to OpenAI implementing its commitments. The OPC says it will monitor.",
+        "First Canadian regulatory findings on large language model training. Read alongside the Clearview decision on the limits of the publicly available exception."
+      ],
+      "cite": "Joint investigation of OpenAI OpCo, LLC (OPC, CAI, OIPC BC, OIPC AB), May 6, 2026. Complaint opened April 4, 2023.",
+      "sources": [
+        [
+          "Commissioner's statement",
+          "https://www.priv.gc.ca/en/opc-news/speeches-and-statements/2026/s-d_260506/"
+        ],
+        [
+          "CAI (français)",
+          "https://www.cai.gouv.qc.ca/actualites/resultats-enquete-conjointe-sur-openai-chatgpt"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "clearview",
+      "date": "2026-02-18",
+      "type": "case",
+      "jur": "BC",
+      "priority": "act",
+      "title": "Clearview AI loses its BC appeal: scraping faces from the web broke privacy law",
+      "what": "BC's Court of Appeal upheld the Privacy Commissioner's order that Clearview stop collecting facial images of people in BC and delete what it holds. Leaving the Canadian market did not get the company out from under BC law.",
+      "why": "Photos and profiles posted online are still personal information. If you scrape, buy or use data built from scraped web content, you need a reasonable purpose and, usually, consent, wherever you are based.",
+      "who": [
+        "tech",
+        "biz"
+      ],
+      "expert": [
+        "Real and substantial connection to BC found from continued scraping of BC residents' images, despite Clearview withdrawing services from Canadian clients.",
+        "Commissioner reasonably rejected reliance on the \"publicly available\" exception given the unreasonable purposes of collection.",
+        "Order to cease collection and delete BC residents' data upheld as reasonable and enforceable.",
+        "Provinces are not aligned: in Clearview AI Inc. v. Alberta (IPC), 2025 ABKB 287, the court found Alberta's narrow publicly-available exception unconstitutional in part."
+      ],
+      "cite": "Clearview AI Inc. v. British Columbia (Information and Privacy Commissioner), 2026 BCCA 67 (Feb. 18, 2026). BC PIPA, SBC 2003, c. 63.",
+      "sources": [
+        [
+          "Dentons/DWW summary",
+          "https://www.dww.com/articles/clearview-ai-breached-bc-privacy-law-appeal-court-holds"
+        ],
+        [
+          "CTV News",
+          "https://www.ctvnews.ca/vancouver/article/clearview-ai-loses-bc-appeal-of-findings-over-facial-recognition-privacy-breaches/"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "loblaw",
+      "date": "2026-03-05",
+      "type": "regulator",
+      "jur": "FED",
+      "priority": "act",
+      "title": "Loblaw kept PC Optimum shopping histories after accounts were deleted",
+      "what": "The federal Privacy Commissioner found Loblaw was too slow to delete loyalty accounts and kept members' purchase histories afterwards. Removing names, emails and phone numbers did not make that data anonymous.",
+      "why": "This is one of the most practical decisions of the year. If you say you delete or anonymize data, check that you really do, on a schedule, and that what's left cannot be linked back to a person.",
+      "who": [
+        "smb",
+        "biz"
+      ],
+      "expert": [
+        "Breaches of PIPEDA Principle 4.5.3 (destroy, erase or make anonymous information no longer required) and timeliness in responding to requests.",
+        "Stripping direct identifiers was insufficient where transaction histories remained linkable; the organization must be able to show re-identification is not realistically possible, or delete.",
+        "Loblaw committed to faster request handling and an independent review of its anonymization process, with fixes where needed. No penalty is available under PIPEDA."
+      ],
+      "cite": "OPC, investigation of complaints regarding the PC Optimum program (news release March 5, 2026).",
+      "sources": [
+        [
+          "OPC news release",
+          "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_260305/"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "children",
+      "date": "2026-03-25",
+      "type": "regulator",
+      "jur": "MULTI",
+      "priority": "prepare",
+      "title": "Children's privacy: global sweep finds most age checks easy to bypass; Canadian code in preparation",
+      "what": "The OPC and 26 other privacy authorities examined 876 websites and apps used by children. Nearly three-quarters of age checks could be bypassed, and more services now demand personal information before kids can fully use them. Separately, the OPC is preparing a Children's Privacy Code.",
+      "why": "If your website, app, program or service is likely to be used by young people, regulators will expect high-privacy default settings, plain-language notices, minimal data collection and easy account deletion.",
+      "who": [
+        "tech",
+        "smb",
+        "public"
+      ],
+      "expert": [
+        "Sweep concerns included geolocation tracking, public-by-default settings and weak parental controls; authorities had concerns with about 41% of services reviewed.",
+        "Children's Privacy Code consultation (May–Aug 2025): themes include applying the code to services \"likely to be accessed by\" children, best-interests PIAs, age-appropriate transparency and banning deceptive design. No draft timeline published.",
+        "C-36 would classify children's information as sensitive; C-34 adds platform duties. Expect convergence."
+      ],
+      "cite": "GPEN sweep results announced March 25, 2026; OPC, What We Heard report on the Children's Privacy Code consultation (2026).",
+      "sources": [
+        [
+          "OPC consultation report",
+          "https://www.priv.gc.ca/en/about-the-opc/what-we-do/consultations/completed-consultations/consultation-children-code/report_children-code_2026/"
+        ],
+        [
+          "Carters summary of the sweep",
+          "https://www.carters.ca/?p=15717"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "scc-fb",
+      "date": "2026-03-19",
+      "type": "case",
+      "jur": "FED",
+      "priority": "watch",
+      "title": "Supreme Court has heard Facebook v. Privacy Commissioner; decision pending",
+      "what": "Canada's top court is deciding whether Facebook broke PIPEDA by letting third-party apps access users' data in the Cambridge Analytica affair. The Federal Court of Appeal said it did. The hearing was in March and the judgment is reserved.",
+      "why": "The ruling will set the standard for what \"meaningful consent\" means in Canada, which affects how every organization writes privacy notices and terms of service.",
+      "who": [
+        "biz",
+        "tech",
+        "smb"
+      ],
+      "expert": [
+        "Issues: meaningful consent for disclosures to third-party apps, and safeguards (oversight of third-party apps' practices).",
+        "FCA (2024 FCA 140) held that terms clear on their face do not necessarily produce meaningful consent and that Facebook failed to monitor and enforce app developers' practices.",
+        "Leave granted June 12, 2025; heard March 19, 2026. Parties filed lock-up undertakings in July 2026."
+      ],
+      "cite": "Facebook, Inc. v. Privacy Commissioner of Canada, SCC No. 41538.",
+      "sources": [
+        [
+          "SCC case docket",
+          "https://www.scc-csc.gc.ca/cases-dossiers/search-recherche/41538"
+        ],
+        [
+          "Bennett Jones preview",
+          "https://www.bennettjones.com/Insights/Blogs/2026/03/Privacy-Goes-to-the-Top-Court"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "classactions",
+      "date": "2026-06-04",
+      "type": "case",
+      "jur": "MULTI",
+      "priority": "context",
+      "title": "Privacy class actions: courts keep screening out weak claims, but Quebec and BC remain open doors",
+      "what": "Courts in Ontario and BC continue to refuse certification of privacy class actions that can't show who was harmed or how. Quebec courts allow broader claims, including for stress and anxiety after a breach, and BC's Privacy Act lets people sue even without proving financial loss.",
+      "why": "A data breach can still lead to a lawsuit, especially in Quebec and BC. Good security and a clear breach response reduce both the risk and the damages.",
+      "who": [
+        "biz",
+        "smb",
+        "health"
+      ],
+      "expert": [
+        "Certification refused: Cleaver v. Cadillac Fairview, 2025 BCSC 910 (facial-detection kiosks; no identifiable class); Donegani v. Facebook, 2025 ONSC 6020 (class definition); RateMDs Inc. v. Bleuler, 2025 BCCA 329 (no reasonable expectation of privacy in professional contact information).",
+        "Intrusion upon seclusion remains unavailable against a defendant that was itself hacked, but viable where the defendant intentionally accessed information (Trueman v. Rogers, 2025 ONSC 5972).",
+        "Quebec: Royer c. Capital One, 2025 QCCA 217 (broad recoverable damages); Harguindeguy c. Suncor, 2025 QCCS 3072 (punitive damages claim authorized).",
+        "BC: ICBC v. Ari, 2025 BCCA 131 (Privacy Act damages beyond nominal without proof of loss)."
+      ],
+      "cite": "See cases listed. Roundups: Bennett Jones (June 2026), McCarthy Tétrault (May 2026).",
+      "sources": [
+        [
+          "McCarthy Tétrault roundup",
+          "https://www.mccarthy.ca/en/insights/publications/data-breach-class-actions-key-developments-and-emerging-risks-2026-privacy-breach-insights-part-2"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "powerschool",
+      "date": "2026-05-12",
+      "type": "regulator",
+      "jur": "MULTI",
+      "priority": "act",
+      "title": "PowerSchool breach: commissioners fault school boards for weak vendor oversight",
+      "what": "After the 2024 PowerSchool cyberattack exposed student and staff data, the Ontario and Alberta commissioners (November 2025) and Newfoundland and Labrador's commissioner (May 2026) found that school boards had not paid enough attention to their vendor's security or prepared for a breach.",
+      "why": "You stay responsible for personal information you hand to a software vendor. Know what your vendors hold, turn off access you don't need, and have a breach plan before you need it.",
+      "who": [
+        "public",
+        "smb",
+        "biz"
+      ],
+      "expert": [
+        "Findings include remote-access functions left continuously enabled and inadequate incident-response readiness at boards.",
+        "Commissioners recommended more provincial funding and technical support for boards' privacy and security programs.",
+        "NL OIPC Report P-2026-001 (May 12, 2026)."
+      ],
+      "cite": "Ontario IPC and Alberta OIPC reports (Nov. 18, 2025); NL OIPC Report P-2026-001.",
+      "sources": [
+        [
+          "NL OIPC release",
+          "https://www.gov.nl.ca/releases/2026/oipc/0512n01/"
+        ],
+        [
+          "The Logic",
+          "https://thelogic.co/briefing/privacy-commissioners-castigate-school-boards-responses-to-powerschool-cyberbreach/"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "aistrategy",
+      "date": "2026-06-04",
+      "type": "policy",
+      "jur": "FED",
+      "priority": "context",
+      "title": "National AI strategy commits to a fundamental right to privacy in law",
+      "what": "The Prime Minister launched \"AI for All\", a five-year national AI strategy. On privacy, it promises to modernize consumer privacy law, protect children's data, address deepfakes and create a Canada Trusted AI Certification.",
+      "why": "There is still no general AI law in Canada. This strategy explains the government's approach: rely on privacy, online safety and consumer law, plus voluntary certification, rather than one AI act.",
+      "who": [
+        "tech",
+        "biz"
+      ],
+      "expert": [
+        "Six pillars, including \"Protecting Canadians and Safeguarding Democracy\".",
+        "Regulatory commitments delivered through C-36 (privacy), C-34 (online safety) and a separate deepfakes bill; $50M for the Canadian AI Safety Institute.",
+        "No timeline for the certification program."
+      ],
+      "cite": "Launched June 4, 2026, by PM Carney and Minister Solomon.",
+      "sources": [
+        [
+          "Gowling WLG summary",
+          "https://gowlingwlg.com/en/insights-resources/articles/2026/canada-launches-ai-for-all-national-artificial-intelligence-strategy"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "aitransparency",
+      "date": "2026-07-23",
+      "type": "consultation",
+      "jur": "FED",
+      "priority": "watch",
+      "title": "AI transparency consultation closed September 23",
+      "what": "Innovation, Science and Economic Development Canada asked how to tell people when they are dealing with AI or AI-generated content, how to track serious AI incidents, and how to monitor AI agents.",
+      "why": "The consultation is closed. If rules follow, businesses that use chatbots or generate content with AI may need to disclose it.",
+      "who": [
+        "tech",
+        "biz",
+        "smb"
+      ],
+      "expert": [
+        "Topics: detection and identification of AI-generated content, notice of AI interaction, transparency about capabilities and limits, serious incident tracking, and monitoring of AI agents.",
+        "Linked to the National AI Strategy; no legislative vehicle announced."
+      ],
+      "cite": "ISED consultation, July 23 – Sept. 23, 2026.",
+      "sources": [
+        [
+          "ISED announcement",
+          "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/government-of-canada-launches-public-consultation-on-ai-transparency.html"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "privacyact",
+      "date": "2026-08-06",
+      "type": "policy",
+      "jur": "FED",
+      "priority": "watch",
+      "title": "Federal Privacy Act modernization: Commissioner backs Treasury Board proposals",
+      "what": "The law that governs how federal departments handle personal information has barely changed since 1983. The Privacy Commissioner supports proposals to recognize privacy as a fundamental right, require breach management, and make government use of automated decisions more transparent.",
+      "why": "Relevant if you work in or with the federal government. A bill has not been tabled yet.",
+      "who": [
+        "public"
+      ],
+      "expert": [
+        "Commissioner also recommends stronger enforcement, mandatory PIAs for high-risk activities, broader authority to collaborate with other oversight bodies, and resources for research and public education."
+      ],
+      "cite": "OPC submission to Treasury Board Secretariat, Aug. 6, 2026.",
+      "sources": [
+        [
+          "OPC news release",
+          "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_260806/"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "cai5",
+      "date": "2026-10-01",
+      "type": "policy",
+      "jur": "QC",
+      "priority": "prepare",
+      "title": "Quebec regulator proposes 74 reforms, including consent you set once in your browser",
+      "what": "Quebec's Commission d'accès à l'information tabled its five-year report with 74 recommendations. On October 1 it highlighted one: consent is failing online because of how much processing happens and because of manipulative \"dark pattern\" designs, so people should be able to accept or refuse some practices in one place, such as their browser.",
+      "why": "Quebec's Law 25 is already the strictest privacy law in Canada and the CAI can impose penalties. If you have Quebec customers, watch for these ideas to become law, especially around cookies and consent banners.",
+      "who": [
+        "biz",
+        "smb",
+        "tech"
+      ],
+      "expert": [
+        "Report title: Transparence et vie privée : protéger la démocratie à l'ère numérique (tabled June 11, 2026).",
+        "Short term: legislative changes including a centralized, browser-level preference signal. Long term: a fundamental rethink of the role of consent.",
+        "Also recommends access-to-information reform and changes to the health information regime (LRSSS)."
+      ],
+      "cite": "CAI, rapport quinquennal 2026, ss. 2.1.1 and 2.2; CAI news item, Oct. 1, 2026.",
+      "sources": [
+        [
+          "CAI: consent (français)",
+          "https://www.cai.gouv.qc.ca/actualites/evolution-des-technologies-reflechir-au-role-du-consentement"
+        ],
+        [
+          "CAI: five-year report (français)",
+          "https://www.cai.gouv.qc.ca/actualites/publication-du-rapport-quinquennal-2026-de-la-commission"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "onscribes",
+      "date": "2026-01-15",
+      "dateText": "Jan 2026",
+      "type": "guidance",
+      "jur": "ON",
+      "priority": "act",
+      "title": "Ontario guidance on AI scribes in health care",
+      "what": "Ontario's Information and Privacy Commissioner published guidance for clinics, hospitals and practitioners using AI tools that listen to appointments and write notes. It expects a privacy impact assessment first, vendor agreements, and a trained person reviewing what the AI writes.",
+      "why": "If you run a clinic or health practice in Ontario, read this before adopting an AI scribe. Other regulators are likely to expect similar steps for AI tools in general.",
+      "who": [
+        "health",
+        "smb"
+      ],
+      "expert": [
+        "Covers governance committees, risk frameworks, data minimization and purpose limits, PIAs across the system lifecycle, safeguards, breach notification, training, confidentiality and end-user agreements, and bias risks including off-label use.",
+        "Builds on the IPC and Ontario Human Rights Commission's joint principles for responsible AI (Jan. 21, 2026): valid and reliable, safe, privacy protective, human-rights affirming, transparent, accountable."
+      ],
+      "cite": "IPC Ontario, AI Scribes: Key Considerations for the Health Sector (January 2026), under PHIPA.",
+      "sources": [
+        [
+          "Baker McKenzie analysis",
+          "https://www.bakermckenzie.com/en/insight/publications/2026/03/canada-ontario-ai-scribe-guidance-signals-emerging-regulatory-baseline"
+        ],
+        [
+          "IPC Ontario",
+          "https://www.ipc.on.ca/"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "onpia",
+      "date": "2026-08-13",
+      "type": "guidance",
+      "jur": "ON",
+      "priority": "act",
+      "title": "Ontario updates its privacy impact assessment guide for public institutions",
+      "what": "The Ontario IPC released a refreshed step-by-step guide to privacy impact assessments for provincial and municipal institutions launching new programs or technology.",
+      "why": "A good free template. Even private organizations can use it to structure their own assessments.",
+      "who": [
+        "public"
+      ],
+      "expert": [
+        "Applies to institutions under FIPPA and MFIPPA. Useful companion to the AI principles and AI scribe guidance."
+      ],
+      "cite": "IPC Ontario, Planning for Success: Privacy Impact Assessment Guide (Aug. 2026).",
+      "sources": [
+        [
+          "IPC Ontario guide",
+          "https://www.ipc.on.ca/en/resources/planning-success-privacy-impact-assessment-guide-ontarios-public-institutions"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "bcidtheft",
+      "date": "2026-08-31",
+      "type": "guidance",
+      "jur": "BC",
+      "priority": "act",
+      "title": "BC commissioner publishes identity theft guidance for organizations and individuals",
+      "what": "BC's Information and Privacy Commissioner released guidance on preventing and responding to identity theft, aimed at public bodies, businesses and individuals.",
+      "why": "Practical for small organizations that collect ID documents, account numbers or other details useful to fraudsters.",
+      "who": [
+        "smb",
+        "public",
+        "biz"
+      ],
+      "expert": [
+        "Read with BC PIPA s. 34 (reasonable security arrangements) and FIPPA s. 30."
+      ],
+      "cite": "OIPC BC news release, Aug. 31, 2026.",
+      "sources": [
+        [
+          "OIPC BC news",
+          "https://oipc.bc.ca/documents/news-releases/3228"
+        ]
+      ],
+      "checked": "2026-10-04"
+    },
+    {
+      "id": "opcar",
+      "date": "2026-06-04",
+      "type": "regulator",
+      "jur": "FED",
+      "priority": "context",
+      "title": "Complaints to the federal Privacy Commissioner more than doubled",
+      "what": "The OPC's annual report shows complaints about businesses rose 109% to 3,044 in 2025-26. Reported business breaches affected more than 20 million Canadians.",
+      "why": "People are more aware of their rights and more likely to complain, and AI-powered search tools are part of the reason. Expect more access and deletion requests.",
+      "who": [
+        "biz",
+        "smb"
+      ],
+      "expert": [
+        "Privacy Act complaints rose 62% to 3,146. Report theme: \"Championing privacy in the age of AI.\""
+      ],
+      "cite": "OPC Annual Report to Parliament 2025-2026, released June 4, 2026.",
+      "sources": [
+        [
+          "OPC news release",
+          "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_260604/"
+        ]
+      ],
+      "checked": "2026-10-04"
+    }
+  ]
+}
