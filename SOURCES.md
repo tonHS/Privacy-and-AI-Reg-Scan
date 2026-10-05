@@ -137,3 +137,4 @@ _19 items, 30 unique source links._
 | Date | Checked | Added | Changed | Removed |
 |---|---|---|---|---|
 | 2026-10-04 | First edition. Federal bills, OPC, CAI, BC/AB/ON commissioners, SCC docket, law firm roundups | 19 items | — | — |
+| 2026-10-05 | Bill C-36 penalty provisions (ss. 114, 145) | — | C-36 item and brief: highest fines are offence fines under s. 145 ($25M / 5% on indictment; $20M / 4% summary); $10M / 3% relabelled as the s. 114 administrative penalty cap | — |

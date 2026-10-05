@@ -3,7 +3,7 @@
   "brief": [
     {
       "title": "Federal privacy reform is back.",
-      "text": "Bill C-36 would replace PIPEDA with penalties up to $10M or 3% of global revenue. It is not law yet, but it is the third try and has momentum.",
+      "text": "Bill C-36 would replace PIPEDA with fines up to $25M or 5% of global revenue for the most serious offences. It is not law yet, but it is the third try and has momentum.",
       "sources": [
         [
           "LEGISinfo: Bill C-36",
@@ -107,7 +107,7 @@
       "priority": "prepare",
       "title": "Bill C-36: a new federal private-sector privacy law is before Parliament",
       "what": "The government has tabled the Protecting Privacy and Consumer Data Act. It would replace the privacy part of PIPEDA, the law most Canadian businesses follow today. The House has been debating it since June, including after Parliament returned in September.",
-      "why": "If it passes, privacy mistakes could cost real money: penalties of up to $10 million or 3% of worldwide revenue, and people could sue after a regulator finds a violation. Nothing changes for you yet, but this is the moment to find out what personal information you hold and where it goes.",
+      "why": "If it passes, privacy mistakes could cost real money. The new commission could impose penalties of up to $10 million or 3% of worldwide revenue, and the most serious offences, such as knowingly breaking key rules or obstructing an investigation, carry fines of up to $25 million or 5%. People could also sue after a regulator finds a violation. Nothing changes for you yet, but this is the moment to find out what personal information you hold and where it goes.",
       "who": [
         "smb",
         "biz",
@@ -117,7 +117,8 @@
       "stage": 1,
       "expert": [
         "Repeals Part 1 of PIPEDA and enacts the Protecting Privacy and Consumer Data Act. AIDA is not revived; AI regulation is left out of this bill.",
-        "Enforcement moves to a new federal commission with direct power to impose administrative monetary penalties (greater of $10M or 3% of gross global revenue). Review is by the Federal Court rather than C-27's proposed Personal Information and Data Protection Tribunal.",
+        "Enforcement moves to a new federal commission with direct power to impose administrative monetary penalties of up to the greater of $10M or 3% of gross global revenue (s. 114). Review is by the Federal Court rather than C-27's proposed Personal Information and Data Protection Tribunal.",
+        "Highest penalties are for offences (s. 145): knowingly contravening ss. 58, 60(1), 69, 75 or 144(1) or an order under s. 110(1), or obstructing a Commissioner investigation or audit or Commission proceedings. On indictment, fines up to the greater of $25M or 5% of gross global revenue; on summary conviction, up to the greater of $20M or 4%.",
         "\"Personal information\" expressly includes inferences about an individual. New \"sensitive information\" category covers children's information, racial or ethnic origin, political opinions, religious beliefs and biometrics.",
         "Anonymization standard is risk-based: no reasonably foreseeable risk of re-identification. De-identified data remains personal information.",
         "Consent exceptions for business activities and legitimate interests (now extended to disclosure), conditioned on a documented privacy impact assessment the Commission can request.",
@@ -140,7 +141,7 @@
           "https://www.weirfoulds.com/bill-c-36-and-the-future-of-canadas-federal-private-sector-privacy-law-what-has-changed-what-it-means-and-what-to-do-now"
         ]
       ],
-      "checked": "2026-10-04"
+      "checked": "2026-10-05"
     },
     {
       "id": "c34",
