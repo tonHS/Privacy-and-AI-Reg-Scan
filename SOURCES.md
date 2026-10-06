@@ -41,7 +41,7 @@ Law firm bulletins (e.g., Fasken, Osler, Bennett Jones, McCarthy Tétrault, Blak
 ## 2. Cited in the current edition
 
 <!-- cited:start -->
-_Generated from `scan.json` (current to 2026-10-04). Do not edit by hand._
+_Generated from `scan.json` (current to 2026-10-06). Do not edit by hand._
 
 ### Monthly brief
 
@@ -76,11 +76,11 @@ _Generated from `scan.json` (current to 2026-10-04). Do not edit by hand._
 - **AI transparency consultation closed September 23** · FED · 2026-07-23 · last checked 2026-10-04
   - Citation: ISED consultation, July 23 – Sept. 23, 2026.
   - [ISED announcement](https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/government-of-canada-launches-public-consultation-on-ai-transparency.html)
-- **Bill C-22: lawful access bill has passed the House and is in the Senate** · FED · 2026-06-18 · last checked 2026-10-04
+- **Bill C-22: lawful access bill has passed the House and is in the Senate** · FED · 2026-06-18 · last checked 2026-10-06
   - Citation: Bill C-22, Lawful Access Act, 2026. Sponsor: Hon. Gary Anandasangaree, Minister of Public Safety. At second reading in the Senate as of June 18, 2026.
   - [OPC submission to SECU](https://www.priv.gc.ca/en/opc-actions-and-decisions/advice-to-parliament/2026/parl_260526/)
   - [openparliament.ca](https://openparliament.ca/bills/45-1/C-22/)
-- **Bill C-36: a new federal private-sector privacy law is before Parliament** · FED · 2026-06-15 · last checked 2026-10-04
+- **Bill C-36: a new federal private-sector privacy law is before Parliament** · FED · 2026-06-15 · last checked 2026-10-06
   - Citation: Bill C-36, 45th Parl., 1st Sess. Sponsor: Hon. Evan Solomon, Minister of Artificial Intelligence and Digital Innovation. First reading June 15, 2026.
   - [LEGISinfo: Bill C-36](https://www.parl.ca/legisinfo/en/bill/45-1/c-36)
   - [openparliament.ca summary](https://openparliament.ca/bills/45-1/C-36/)
@@ -88,7 +88,7 @@ _Generated from `scan.json` (current to 2026-10-04). Do not edit by hand._
 - **Bill C-8: critical infrastructure cybersecurity law received Royal Assent** · FED · 2026-06-15 · last checked 2026-10-04
   - Citation: S.C. 2026, c. 9 (former Bill C-8).
   - [openparliament.ca](https://openparliament.ca/bills/45-1/C-8/)
-- **Bill C-34: Safe Social Media Act would restrict accounts for under-16s and cover AI chatbots** · FED · 2026-06-10 · last checked 2026-10-04
+- **Bill C-34: Safe Social Media Act would restrict accounts for under-16s and cover AI chatbots** · FED · 2026-06-10 · last checked 2026-10-06
   - Citation: Bill C-34, 45th Parl., 1st Sess. Introduced June 10, 2026 (Canadian Heritage).
   - [Government backgrounder](https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-introduces-legislation-to-combat-online-harms-particularly-those-impacting-children.html)
   - [openparliament.ca](https://openparliament.ca/bills/45-1/C-34/)
@@ -113,7 +113,7 @@ _Generated from `scan.json` (current to 2026-10-04). Do not edit by hand._
   - Citation: GPEN sweep results announced March 25, 2026; OPC, What We Heard report on the Children's Privacy Code consultation (2026).
   - [OPC consultation report](https://www.priv.gc.ca/en/about-the-opc/what-we-do/consultations/completed-consultations/consultation-children-code/report_children-code_2026/)
   - [Carters summary of the sweep](https://www.carters.ca/?p=15717)
-- **Supreme Court has heard Facebook v. Privacy Commissioner; decision pending** · FED · 2026-03-19 · last checked 2026-10-04
+- **Supreme Court has heard Facebook v. Privacy Commissioner; decision pending** · FED · 2026-03-19 · last checked 2026-10-06
   - Citation: Facebook, Inc. v. Privacy Commissioner of Canada, SCC No. 41538.
   - [SCC case docket](https://www.scc-csc.gc.ca/cases-dossiers/search-recherche/41538)
   - [Bennett Jones preview](https://www.bennettjones.com/Insights/Blogs/2026/03/Privacy-Goes-to-the-Top-Court)
@@ -138,3 +138,4 @@ _19 items, 30 unique source links._
 |---|---|---|---|---|
 | 2026-10-04 | First edition. Federal bills, OPC, CAI, BC/AB/ON commissioners, SCC docket, law firm roundups | 19 items | — | — |
 | 2026-10-05 | Bill C-36 penalty provisions (ss. 114, 145) | — | C-36 item and brief: highest fines are offence fines under s. 145 ($25M / 5% on indictment; $20M / 4% summary); $10M / 3% relabelled as the s. 114 administrative penalty cap | — |
+| 2026-10-06 | LEGISinfo (C-36, C-34, C-22), SCC docket 41538, OPC news releases, Ontario IPC, Quebec CAI | — | asOf moved to Oct 6; C-36, C-34, C-22 and SCC Facebook items re-verified (no change in status) | — |
