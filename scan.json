@@ -1,27 +1,37 @@
 {
-  "asOf": "2026-10-06",
+  "asOf": "2026-10-22",
   "brief": [
     {
-      "title": "Federal privacy reform is back.",
-      "text": "Bill C-36 would replace PIPEDA with fines up to $25M or 5% of global revenue for the most serious offences. It is not law yet, but it is the third try and has momentum.",
+      "title": "Children's privacy now has a rulebook.",
+      "text": "The federal Commissioner's new Children's Privacy Code expects privacy-protective defaults and no profiling of kids for ads. Comments are open until January 20, 2027.",
       "sources": [
         [
-          "LEGISinfo: Bill C-36",
-          "https://www.parl.ca/legisinfo/en/bill/45-1/c-36"
-        ],
-        [
-          "openparliament.ca",
-          "https://openparliament.ca/bills/45-1/C-36/"
+          "OPC Children's Privacy Code",
+          "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_261020/"
         ]
       ]
     },
     {
-      "title": "Regulators are testing AI against existing law.",
-      "text": "The OpenAI findings and the Clearview appeal both say \"publicly available\" online data is not a free pass.",
+      "title": "Federal reform is moving slowly.",
+      "text": "Bill C-34 (online safety) reached second-reading debate on October 21. Bill C-36, the PIPEDA replacement, has not been debated yet. Neither is law.",
       "sources": [
         [
-          "OPC on OpenAI",
-          "https://www.priv.gc.ca/en/opc-news/speeches-and-statements/2026/s-d_260506/"
+          "openparliament.ca: C-34",
+          "https://openparliament.ca/bills/45-1/C-34/"
+        ],
+        [
+          "LEGISinfo: C-36",
+          "https://www.parl.ca/legisinfo/en/bill/45-1/c-36"
+        ]
+      ]
+    },
+    {
+      "title": "Courts keep backing regulators on web scraping.",
+      "text": "After BC's Court of Appeal, a Quebec court has now upheld an order against Clearview AI. \"Publicly available\" online data is not a free pass.",
+      "sources": [
+        [
+          "CAI on Clearview (French)",
+          "https://www.cai.gouv.qc.ca/actualites/clearview-ai-lordonnance-de-la-commission-confirmee-par-la-cour-du-quebec"
         ],
         [
           "Clearview, 2026 BCCA 67",
@@ -30,30 +40,16 @@
       ]
     },
     {
-      "title": "Deletion and anonymization are being checked.",
-      "text": "Loblaw was found to have kept \"anonymized\" purchase histories that could still identify people. Stripping names is not enough.",
+      "title": "Security and biometrics are in focus.",
+      "text": "The OPC closed its WestJet breach file after stronger MFA and access controls, and now treats voiceprints from recorded calls as sensitive biometrics.",
       "sources": [
         [
-          "OPC Loblaw findings",
-          "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_260305/"
-        ]
-      ]
-    },
-    {
-      "title": "Children are the theme of 2026.",
-      "text": "An under-16 social media bill, a children's privacy code in preparation, and a global sweep that found most age checks easy to bypass.",
-      "sources": [
-        [
-          "Bill C-34 backgrounder",
-          "https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-introduces-legislation-to-combat-online-harms-particularly-those-impacting-children.html"
+          "OPC on WestJet",
+          "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_261014/"
         ],
         [
-          "OPC children's code",
-          "https://www.priv.gc.ca/en/about-the-opc/what-we-do/consultations/completed-consultations/consultation-children-code/report_children-code_2026/"
-        ],
-        [
-          "Global sweep summary",
-          "https://www.carters.ca/?p=15717"
+          "OPC on call recording",
+          "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_261008/"
         ]
       ]
     }
@@ -73,19 +69,19 @@
       "why": "First top-court ruling on what \"meaningful consent\" means under PIPEDA."
     },
     {
+      "when": "Jan 20, 2027",
+      "what": "Comments close on the OPC Children's Privacy Code",
+      "why": "The Code may be revised after comments; now is the time to raise practical problems."
+    },
+    {
       "when": "Fall 2026",
-      "what": "Bill C-36 vote at second reading and referral to committee",
-      "why": "Committee hearings are where business and civil society get to shape the text."
+      "what": "Bills C-36 and C-34: second-reading votes and referral to committee",
+      "why": "C-34 debate began October 21; C-36 has not been debated yet. Committee hearings are where business and civil society get to shape the text."
     },
     {
       "when": "Fall 2026",
       "what": "Bill C-22 (lawful access) in the Senate",
       "why": "Senate amendments could narrow what service providers must hand over or retain."
-    },
-    {
-      "when": "No date set",
-      "what": "OPC draft Children's Privacy Code",
-      "why": "Will set expectations for any service likely to be used by children."
     },
     {
       "when": "After Sept 23",
@@ -100,13 +96,50 @@
   ],
   "items": [
     {
+      "id": "childcode",
+      "date": "2026-10-20",
+      "type": "guidance",
+      "jur": "FED",
+      "priority": "prepare",
+      "title": "Federal Privacy Commissioner launches Canada's first Children's Privacy Code",
+      "what": "The OPC published a Children's Privacy Code setting out what it expects from organizations that handle children's and teens' personal information, such as websites and apps. Location tracking, public profiles and third-party sharing should be off by default, and children should not be profiled for targeted advertising. Comments are open until January 20, 2027, and the Code may change after that.",
+      "why": "If young people are likely to use your website, app or service, compare your settings and data practices against the Code now. It tells you how the Commissioner will read PIPEDA's existing rules when kids are involved, and C-36 would treat children's information as sensitive.",
+      "who": [
+        "tech",
+        "smb",
+        "biz"
+      ],
+      "expert": [
+        "Expectations include: meaningful, age-appropriate consent with opt-in for non-essential uses; parental consent under 13; privacy-protective defaults (geolocation, profile visibility, third-party sharing off); no profiling for marketing, including behavioural advertising, or for AI-driven decision-making; no deceptive design that nudges children to share more; practical correction and deletion.",
+        "Published October 20, 2026 with a youth-friendly version. Comments to cpvp-opcconsultation1@priv.gc.ca until January 20, 2027.",
+        "The release does not say the Code is binding or give an effective date. Treat it as the OPC's interpretation of PIPEDA's existing obligations (commercial activity only); provincial private-sector laws in QC, BC and AB apply separately.",
+        "Follows the 2025 consultation and the OPC's What We Heard report (2026)."
+      ],
+      "cite": "OPC, Children's Privacy Code (Oct. 20, 2026); PIPEDA, S.C. 2000, c. 5.",
+      "sources": [
+        [
+          "OPC news release (Oct. 20, 2026)",
+          "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_261020/"
+        ],
+        [
+          "Children's Privacy Code",
+          "https://www.priv.gc.ca/en/privacy-topics/privacy-for-businesses/protection-of-children-for-businesses/childrens-privacy-code/children-code-final-report-2026/"
+        ],
+        [
+          "Youth version",
+          "https://www.priv.gc.ca/en/privacy-topics/privacy-for-businesses/protection-of-children-for-businesses/childrens-privacy-code/children-code-youth-version-2026/"
+        ]
+      ],
+      "checked": "2026-10-22"
+    },
+    {
       "id": "c36",
       "date": "2026-06-15",
       "type": "legislation",
       "jur": "FED",
       "priority": "prepare",
       "title": "Bill C-36: a new federal private-sector privacy law is before Parliament",
-      "what": "The government has tabled the Protecting Privacy and Consumer Data Act. It would replace the privacy part of PIPEDA, the law most Canadian businesses follow today. The House has been debating it since June, including after Parliament returned in September.",
+      "what": "The government has tabled the Protecting Privacy and Consumer Data Act. It would replace the privacy part of PIPEDA, the law most Canadian businesses follow today. It was introduced in June, but second-reading debate has not yet begun in the House.",
       "why": "If it passes, privacy mistakes could cost real money. The new commission could impose penalties of up to $10 million or 3% of worldwide revenue, and the most serious offences, such as knowingly breaking key rules or obstructing an investigation, carry fines of up to $25 million or 5%. People could also sue after a regulator finds a violation. Nothing changes for you yet, but this is the moment to find out what personal information you hold and where it goes.",
       "who": [
         "smb",
@@ -141,7 +174,7 @@
           "https://www.weirfoulds.com/bill-c-36-and-the-future-of-canadas-federal-private-sector-privacy-law-what-has-changed-what-it-means-and-what-to-do-now"
         ]
       ],
-      "checked": "2026-10-06"
+      "checked": "2026-10-22"
     },
     {
       "id": "c34",
@@ -150,7 +183,7 @@
       "jur": "FED",
       "priority": "watch",
       "title": "Bill C-34: Safe Social Media Act would restrict accounts for under-16s and cover AI chatbots",
-      "what": "A companion to C-36 that sets safety duties for social media platforms and AI chatbot services, including an under-16 account restriction, tools to block and report harmful content, and labelling of AI-generated content. A new Digital Safety Commission would enforce it.",
+      "what": "A companion to C-36 that sets safety duties for social media platforms and AI chatbot services, including an under-16 account restriction, tools to block and report harmful content, and labelling of AI-generated content. A new Digital Safety Commission would enforce it. Second-reading debate began in the House on October 21.",
       "why": "Most small organizations won't be regulated directly. If you run an online community, app or chatbot used by young people, watch this closely, because age checks raise their own privacy questions.",
       "who": [
         "tech"
@@ -162,7 +195,7 @@
         "Part 2 creates the Digital Safety Commission of Canada with audit, compliance-order and AMP powers.",
         "Privacy angle: accredited researchers get a regulator-supervised, \"privacy-preserving\" route to platform data. Age-assurance methods are left to regulation and guidance."
       ],
-      "cite": "Bill C-34, 45th Parl., 1st Sess. Introduced June 10, 2026 (Canadian Heritage).",
+      "cite": "Bill C-34, 45th Parl., 1st Sess. Introduced June 10, 2026 (Canadian Heritage). Second-reading debate began Oct. 21, 2026.",
       "sources": [
         [
           "Government backgrounder",
@@ -173,7 +206,7 @@
           "https://openparliament.ca/bills/45-1/C-34/"
         ]
       ],
-      "checked": "2026-10-06"
+      "checked": "2026-10-22"
     },
     {
       "id": "c22",
@@ -206,7 +239,7 @@
           "https://openparliament.ca/bills/45-1/C-22/"
         ]
       ],
-      "checked": "2026-10-06"
+      "checked": "2026-10-22"
     },
     {
       "id": "c8",
@@ -236,6 +269,65 @@
         ]
       ],
       "checked": "2026-10-04"
+    },
+    {
+      "id": "westjet",
+      "date": "2026-10-14",
+      "type": "regulator",
+      "jur": "FED",
+      "priority": "act",
+      "title": "WestJet breach investigation closed after airline tightens security",
+      "what": "The federal Privacy Commissioner closed its investigation into the 2025 cyberattack on WestJet, which affected more than five million customers and employees. WestJet signed a compliance letter in July 2026 and has now shown it met its commitments.",
+      "why": "The fixes show what regulators expect after a breach: stronger multi-factor authentication, tighter access controls, staff security awareness and an outside review of the new measures. Engaging early with the OPC can resolve a case faster.",
+      "who": [
+        "biz",
+        "smb"
+      ],
+      "expert": [
+        "Resolved through a compliance letter (signed July 2026) rather than a report of findings; the release does not say whether the complaint was well-founded.",
+        "Commitments: stronger MFA, tighter identity and access management, improved security awareness, and an external security firm's assessment shared with the OPC with a plan for any further recommendations.",
+        "PIPEDA, Principle 4.7 (safeguards)."
+      ],
+      "cite": "OPC news release, Oct. 14, 2026.",
+      "sources": [
+        [
+          "OPC news release (Oct. 14, 2026)",
+          "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_261014/"
+        ]
+      ],
+      "checked": "2026-10-22"
+    },
+    {
+      "id": "voiceprints",
+      "date": "2026-10-08",
+      "type": "guidance",
+      "jur": "FED",
+      "priority": "act",
+      "title": "Recording customer calls: OPC updates guidance and treats voiceprints as sensitive biometrics",
+      "what": "The OPC updated its guidance for organizations that record customer calls. It now addresses voiceprints, the voice characteristics that can identify a person, and treats them as sensitive biometric information that may require meaningful consent.",
+      "why": "If you record calls, or use voice authentication or call analytics, check your notices and consent. The rules apply whoever starts the call, and to call centres or telemarketers working for you.",
+      "who": [
+        "biz",
+        "smb",
+        "telecom"
+      ],
+      "expert": [
+        "Aligns call-recording guidance with the OPC's biometrics guidance; voiceprints treated as sensitive biometric information.",
+        "PIPEDA applies whether the customer or the organization initiates the call; organizations remain accountable for outsourced call handling (Principle 4.1.3).",
+        "See the full guidance for consent and safeguard specifics."
+      ],
+      "cite": "OPC, Recording of customer telephone calls (updated Oct. 8, 2026).",
+      "sources": [
+        [
+          "OPC news release (Oct. 8, 2026)",
+          "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_261008/"
+        ],
+        [
+          "OPC guidance",
+          "https://www.priv.gc.ca/en/privacy-topics/surveillance/02_05_d_14/"
+        ]
+      ],
+      "checked": "2026-10-22"
     },
     {
       "id": "openai",
@@ -271,12 +363,12 @@
     },
     {
       "id": "clearview",
-      "date": "2026-02-18",
+      "date": "2026-10-16",
       "type": "case",
-      "jur": "BC",
+      "jur": "MULTI",
       "priority": "act",
-      "title": "Clearview AI loses its BC appeal: scraping faces from the web broke privacy law",
-      "what": "BC's Court of Appeal upheld the Privacy Commissioner's order that Clearview stop collecting facial images of people in BC and delete what it holds. Leaving the Canadian market did not get the company out from under BC law.",
+      "title": "Clearview AI loses in BC and Quebec courts: scraping faces from the web broke privacy law",
+      "what": "BC's Court of Appeal upheld the BC Commissioner's order in February. In October, the Court of Québec upheld the Quebec regulator's 2021 order that Clearview stop collecting Quebecers' images and destroy their images and biometric identifiers. Leaving the Canadian market did not get the company out from under provincial law.",
       "why": "Photos and profiles posted online are still personal information. If you scrape, buy or use data built from scraped web content, you need a reasonable purpose and, usually, consent, wherever you are based.",
       "who": [
         "tech",
@@ -286,20 +378,30 @@
         "Real and substantial connection to BC found from continued scraping of BC residents' images, despite Clearview withdrawing services from Canadian clients.",
         "Commissioner reasonably rejected reliance on the \"publicly available\" exception given the unreasonable purposes of collection.",
         "Order to cease collection and delete BC residents' data upheld as reasonable and enforceable.",
+        "Quebec: the Court of Québec rejected Clearview's arguments that it lacks a real and substantial connection to Quebec, that its collection served a serious and legitimate interest, and that the consent requirements unjustifiably limit freedom of expression (CAI news, Oct. 16, 2026). Neutral citation not confirmed; decision published on SOQUIJ.",
         "Provinces are not aligned: in Clearview AI Inc. v. Alberta (IPC), 2025 ABKB 287, the court found Alberta's narrow publicly-available exception unconstitutional in part."
       ],
-      "cite": "Clearview AI Inc. v. British Columbia (Information and Privacy Commissioner), 2026 BCCA 67 (Feb. 18, 2026). BC PIPA, SBC 2003, c. 63.",
+      "cite": "Clearview AI Inc. v. British Columbia (Information and Privacy Commissioner), 2026 BCCA 67 (Feb. 18, 2026); Court of Québec decision upholding CAI order (reported Oct. 16, 2026). BC PIPA, SBC 2003, c. 63; Quebec Private Sector Act, CQLR c. P-39.1.",
       "sources": [
         [
           "Dentons/DWW summary",
           "https://www.dww.com/articles/clearview-ai-breached-bc-privacy-law-appeal-court-holds"
         ],
         [
+          "CAI: Court of Québec upholds order (French)",
+          "https://www.cai.gouv.qc.ca/actualites/clearview-ai-lordonnance-de-la-commission-confirmee-par-la-cour-du-quebec"
+        ],
+        [
+          "Court of Québec decision (SOQUIJ)",
+          "https://citoyens.soquij.qc.ca/ID=2116516489BD92D6D9A6133652EEF32B"
+        ],
+        [
           "CTV News",
           "https://www.ctvnews.ca/vancouver/article/clearview-ai-loses-bc-appeal-of-findings-over-facial-recognition-privacy-breaches/"
         ]
       ],
-      "checked": "2026-10-04"
+      "checked": "2026-10-22",
+      "dateText": "Feb & Oct 2026"
     },
     {
       "id": "loblaw",
@@ -334,8 +436,8 @@
       "type": "regulator",
       "jur": "MULTI",
       "priority": "prepare",
-      "title": "Children's privacy: global sweep finds most age checks easy to bypass; Canadian code in preparation",
-      "what": "The OPC and 26 other privacy authorities examined 876 websites and apps used by children. Nearly three-quarters of age checks could be bypassed, and more services now demand personal information before kids can fully use them. Separately, the OPC is preparing a Children's Privacy Code.",
+      "title": "Children's privacy: global sweep finds most age checks easy to bypass",
+      "what": "The OPC and 26 other privacy authorities examined 876 websites and apps used by children. Nearly three-quarters of age checks could be bypassed, and more services now demand personal information before kids can fully use them.",
       "why": "If your website, app, program or service is likely to be used by young people, regulators will expect high-privacy default settings, plain-language notices, minimal data collection and easy account deletion.",
       "who": [
         "tech",
@@ -344,7 +446,7 @@
       ],
       "expert": [
         "Sweep concerns included geolocation tracking, public-by-default settings and weak parental controls; authorities had concerns with about 41% of services reviewed.",
-        "Children's Privacy Code consultation (May–Aug 2025): themes include applying the code to services \"likely to be accessed by\" children, best-interests PIAs, age-appropriate transparency and banning deceptive design. No draft timeline published.",
+        "The OPC's Children's Privacy Code followed in October 2026 (see the separate item); comments open until January 20, 2027.",
         "C-36 would classify children's information as sensitive; C-34 adds platform duties. Expect convergence."
       ],
       "cite": "GPEN sweep results announced March 25, 2026; OPC, What We Heard report on the Children's Privacy Code consultation (2026).",
@@ -358,7 +460,7 @@
           "https://www.carters.ca/?p=15717"
         ]
       ],
-      "checked": "2026-10-04"
+      "checked": "2026-10-22"
     },
     {
       "id": "scc-fb",
@@ -390,7 +492,7 @@
           "https://www.bennettjones.com/Insights/Blogs/2026/03/Privacy-Goes-to-the-Top-Court"
         ]
       ],
-      "checked": "2026-10-06"
+      "checked": "2026-10-22"
     },
     {
       "id": "classactions",
@@ -505,7 +607,7 @@
           "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/government-of-canada-launches-public-consultation-on-ai-transparency.html"
         ]
       ],
-      "checked": "2026-10-04"
+      "checked": "2026-10-22"
     },
     {
       "id": "privacyact",
@@ -529,7 +631,7 @@
           "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_260806/"
         ]
       ],
-      "checked": "2026-10-04"
+      "checked": "2026-10-22"
     },
     {
       "id": "cai5",
