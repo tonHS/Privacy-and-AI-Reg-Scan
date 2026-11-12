@@ -1,23 +1,17 @@
 {
-  "asOf": "2026-10-22",
+  "asOf": "2026-11-12",
   "brief": [
     {
-      "title": "Children's privacy now has a rulebook.",
-      "text": "The federal Commissioner's new Children's Privacy Code expects privacy-protective defaults and no profiling of kids for ads. Comments are open until January 20, 2027.",
+      "title": "Canada's online safety bill is at committee.",
+      "text": "Bill C-34 passed second reading on October 29 and went to the Canadian Heritage committee, which accepts written briefs. Bill C-36, the PIPEDA replacement, still has not been debated. Neither is law.",
       "sources": [
         [
-          "OPC Children's Privacy Code",
-          "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_261020/"
-        ]
-      ]
-    },
-    {
-      "title": "Federal reform is moving slowly.",
-      "text": "Bill C-34 (online safety) reached second-reading debate on October 21. Bill C-36, the PIPEDA replacement, has not been debated yet. Neither is law.",
-      "sources": [
+          "LEGISinfo: C-34",
+          "https://www.parl.ca/legisinfo/en/bill/45-1/c-34"
+        ],
         [
-          "openparliament.ca: C-34",
-          "https://openparliament.ca/bills/45-1/C-34/"
+          "CHPC study page",
+          "https://www.ourcommons.ca/Committees/en/CHPC/StudyActivity?studyActivityId=13668976"
         ],
         [
           "LEGISinfo: C-36",
@@ -26,30 +20,36 @@
       ]
     },
     {
-      "title": "Courts keep backing regulators on web scraping.",
-      "text": "After BC's Court of Appeal, a Quebec court has now upheld an order against Clearview AI. \"Publicly available\" online data is not a free pass.",
+      "title": "The budget pays for the new privacy regulator.",
+      "text": "Budget 2026 sets aside about $176 million over five years for the Digital Safety and Data Protection Commission, which would take over private-sector privacy enforcement if C-36 passes.",
       "sources": [
         [
-          "CAI on Clearview (French)",
-          "https://www.cai.gouv.qc.ca/actualites/clearview-ai-lordonnance-de-la-commission-confirmee-par-la-cour-du-quebec"
-        ],
-        [
-          "Clearview, 2026 BCCA 67",
-          "https://www.dww.com/articles/clearview-ai-breached-bc-privacy-law-appeal-court-holds"
+          "Budget 2026 in brief",
+          "https://budget.canada.ca/2026/report-rapport/pdf/budget-2026-in-brief.pdf"
         ]
       ]
     },
     {
-      "title": "Security and biometrics are in focus.",
-      "text": "The OPC closed its WestJet breach file after stronger MFA and access controls, and now treats voiceprints from recorded calls as sensitive biometrics.",
+      "title": "Vendors are your risk.",
+      "text": "The federal Commissioner is investigating Navigate360, the platform behind a large Crime Stoppers tip breach, and BC is investigating BC Crime Stoppers. Check your vendors' security and breach terms.",
       "sources": [
         [
-          "OPC on WestJet",
-          "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_261014/"
+          "CTV News",
+          "https://www.ctvnews.ca/canada/article/privacy-commissioner-opens-investigation-into-crime-stoppers-data-breach/"
+        ]
+      ]
+    },
+    {
+      "title": "Still open: children's code and lawful access.",
+      "text": "Comments on the federal Children's Privacy Code close January 20, 2027. In the Senate, the Commissioner asked for more limits on lawful access Bill C-22.",
+      "sources": [
+        [
+          "OPC Children's Privacy Code",
+          "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_261020/"
         ],
         [
-          "OPC on call recording",
-          "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_261008/"
+          "CBC on C-22",
+          "https://www.cbc.ca/news/politics/senate-bill-c-22-lawful-access-9.7406213"
         ]
       ]
     }
@@ -75,13 +75,13 @@
     },
     {
       "when": "Fall 2026",
-      "what": "Bills C-36 and C-34: second-reading votes and referral to committee",
-      "why": "C-34 debate began October 21; C-36 has not been debated yet. Committee hearings are where business and civil society get to shape the text."
+      "what": "Bill C-34 committee hearings; Bill C-36 second reading",
+      "why": "C-34 went to the Canadian Heritage committee on October 29 and briefs are open. C-36 has not been debated yet. Committee is where the text gets shaped."
     },
     {
       "when": "Fall 2026",
-      "what": "Bill C-22 (lawful access) in the Senate",
-      "why": "Senate amendments could narrow what service providers must hand over or retain."
+      "what": "Bill C-22 (lawful access): Senate committee study",
+      "why": "The Privacy Commissioner asked senators for more amendments in early November. Changes could narrow what providers must hand over or retain."
     },
     {
       "when": "After Sept 23",
@@ -130,7 +130,39 @@
           "https://www.priv.gc.ca/en/privacy-topics/privacy-for-businesses/protection-of-children-for-businesses/childrens-privacy-code/children-code-youth-version-2026/"
         ]
       ],
-      "checked": "2026-10-22"
+      "checked": "2026-11-12"
+    },
+    {
+      "id": "budget2026",
+      "date": "2026-11-05",
+      "type": "policy",
+      "jur": "FED",
+      "priority": "context",
+      "title": "Budget 2026 funds the new regulator that would enforce private-sector privacy law",
+      "what": "The federal budget, tabled November 5, sets aside about $176 million over five years for the Digital Safety and Data Protection Commission, the body that would take over private-sector privacy enforcement from the Privacy Commissioner under Bills C-36 and C-34. It also includes a national anti-fraud strategy and tougher anti-fraud duties for telecoms.",
+      "why": "Funding a regulator is a signal the government means to pass C-36 and C-34, but neither is law yet and budget measures still need legislation. Nothing changes for your organization today.",
+      "who": [
+        "biz",
+        "tech",
+        "telecom"
+      ],
+      "expert": [
+        "Budget 2026 (\"Masters of Our Destiny\"): $176.3M over five years from 2026–27, then $29.3M per year ongoing, for the Commission (one news report gives $176.6M; budget-based sources say $176.3M).",
+        "Commission is created by Bill C-34 Part 2 and given private-sector privacy enforcement by C-36.",
+        "Anti-fraud measures (telecom requirements, National Anti-Fraud Strategy) need implementing legislation; details not yet published."
+      ],
+      "cite": "Budget 2026, tabled Nov. 5, 2026.",
+      "sources": [
+        [
+          "Budget 2026 in brief (PDF)",
+          "https://budget.canada.ca/2026/report-rapport/pdf/budget-2026-in-brief.pdf"
+        ],
+        [
+          "Gowling WLG: Budget 2026 and AI",
+          "https://gowlingwlg.com/en-ca/insights-resources/articles/2026/investing-in-intelligence"
+        ]
+      ],
+      "checked": "2026-11-12"
     },
     {
       "id": "c36",
@@ -139,7 +171,7 @@
       "jur": "FED",
       "priority": "prepare",
       "title": "Bill C-36: a new federal private-sector privacy law is before Parliament",
-      "what": "The government has tabled the Protecting Privacy and Consumer Data Act. It would replace the privacy part of PIPEDA, the law most Canadian businesses follow today. It was introduced in June, but second-reading debate has not yet begun in the House.",
+      "what": "The government has tabled the Protecting Privacy and Consumer Data Act. It would replace the privacy part of PIPEDA, the law most Canadian businesses follow today. It was introduced in June, but as of mid-November second-reading debate has not yet begun in the House.",
       "why": "If it passes, privacy mistakes could cost real money. The new commission could impose penalties of up to $10 million or 3% of worldwide revenue, and the most serious offences, such as knowingly breaking key rules or obstructing an investigation, carry fines of up to $25 million or 5%. People could also sue after a regulator finds a violation. Nothing changes for you yet, but this is the moment to find out what personal information you hold and where it goes.",
       "who": [
         "smb",
@@ -174,7 +206,7 @@
           "https://www.weirfoulds.com/bill-c-36-and-the-future-of-canadas-federal-private-sector-privacy-law-what-has-changed-what-it-means-and-what-to-do-now"
         ]
       ],
-      "checked": "2026-10-22"
+      "checked": "2026-11-12"
     },
     {
       "id": "c34",
@@ -183,30 +215,35 @@
       "jur": "FED",
       "priority": "watch",
       "title": "Bill C-34: Safe Social Media Act would restrict accounts for under-16s and cover AI chatbots",
-      "what": "A companion to C-36 that sets safety duties for social media platforms and AI chatbot services, including an under-16 account restriction, tools to block and report harmful content, and labelling of AI-generated content. A new Digital Safety Commission would enforce it. Second-reading debate began in the House on October 21.",
+      "what": "A companion to C-36 that sets safety duties for social media platforms and AI chatbot services, including an under-16 account restriction, tools to block and report harmful content, and labelling of AI-generated content. A new Digital Safety Commission would enforce it. The House passed it at second reading on October 29 and sent it to the Canadian Heritage committee, which has not yet held hearings.",
       "why": "Most small organizations won't be regulated directly. If you run an online community, app or chatbot used by young people, watch this closely, because age checks raise their own privacy questions.",
       "who": [
         "tech"
       ],
-      "stage": 1,
+      "stage": 2,
       "expert": [
         "Part 1 enacts the Digital Safety Act: duties to act responsibly, protect children (design features, age restrictions), label synthetic content, remove CSAM and non-consensual intimate content, and file digital safety plans.",
         "Under-16 account restriction can be exempted where the regulator is satisfied sufficient safeguards exist.",
         "Part 2 creates the Digital Safety Commission of Canada with audit, compliance-order and AMP powers.",
-        "Privacy angle: accredited researchers get a regulator-supervised, \"privacy-preserving\" route to platform data. Age-assurance methods are left to regulation and guidance."
+        "Privacy angle: accredited researchers get a regulator-supervised, \"privacy-preserving\" route to platform data. Age-assurance methods are left to regulation and guidance.",
+        "Second reading agreed to Oct. 29, 2026; referred to the Standing Committee on Canadian Heritage (CHPC). As of Nov. 12 no committee meetings had been held; CHPC accepts written briefs of up to 2,000 words."
       ],
-      "cite": "Bill C-34, 45th Parl., 1st Sess. Introduced June 10, 2026 (Canadian Heritage). Second-reading debate began Oct. 21, 2026.",
+      "cite": "Bill C-34, 45th Parl., 1st Sess. Introduced June 10, 2026 (Canadian Heritage). Referred to CHPC Oct. 29, 2026.",
       "sources": [
+        [
+          "LEGISinfo: Bill C-34",
+          "https://www.parl.ca/legisinfo/en/bill/45-1/c-34"
+        ],
+        [
+          "CHPC study page (briefs)",
+          "https://www.ourcommons.ca/Committees/en/CHPC/StudyActivity?studyActivityId=13668976"
+        ],
         [
           "Government backgrounder",
           "https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-introduces-legislation-to-combat-online-harms-particularly-those-impacting-children.html"
-        ],
-        [
-          "openparliament.ca",
-          "https://openparliament.ca/bills/45-1/C-34/"
         ]
       ],
-      "checked": "2026-10-22"
+      "checked": "2026-11-12"
     },
     {
       "id": "c22",
@@ -214,9 +251,9 @@
       "type": "legislation",
       "jur": "FED",
       "priority": "watch",
-      "title": "Bill C-22: lawful access bill has passed the House and is in the Senate",
-      "what": "This bill makes it easier for police and CSIS to get information from online service providers, such as confirming whether a provider has a customer, and requires providers to be technically able to help with authorized requests.",
-      "why": "If you provide internet, messaging, hosting or other electronic services, this could create new obligations to respond to requests and keep certain data. The Privacy Commissioner has asked for it to be narrowed.",
+      "title": "Bill C-22: lawful access bill is before a Senate committee",
+      "what": "This bill makes it easier for police and CSIS to get information from online service providers, such as confirming whether a provider has a customer, and requires providers to be technically able to help with authorized requests. It has passed the House and is now being studied by the Senate's national security committee.",
+      "why": "If you provide internet, messaging, hosting or other electronic services, this could create new obligations to respond to requests and keep certain data. In early November the Privacy Commissioner told senators the bill still needs to be narrowed, so Senate amendments are possible.",
       "who": [
         "telecom",
         "tech"
@@ -226,20 +263,25 @@
         "Part 1 amends the Criminal Code and related statutes: expedited confirmation of subscriber information, clarified authority to examine computer data, and orders for transmission data held by foreign providers. Critics flag a \"reasonable suspicion\" threshold for some powers.",
         "Part 2 enacts the Supporting Authorized Access to Information Act, imposing capability obligations on electronic service providers, including possible metadata retention.",
         "OPC (May 26, 2026) urged: a closed list of subscriber identifiers, limiting demands to telecom providers, a necessity and proportionality test, protection of encryption, and a carve-out letting providers report to privacy regulators.",
-        "Successor to the lawful-access parts of Bill C-2 (2025)."
+        "Successor to the lawful-access parts of Bill C-2 (2025).",
+        "Senate referred the bill to the Standing Senate Committee on National Security, Defence and Veterans Affairs (SECD). In early November 2026 Commissioner Dufresne urged senators to further amend it, including limiting what information a new production order can reach. The Intelligence Commissioner suggested an express necessity and proportionality test for ministerial orders."
       ],
-      "cite": "Bill C-22, Lawful Access Act, 2026. Sponsor: Hon. Gary Anandasangaree, Minister of Public Safety. At second reading in the Senate as of June 18, 2026.",
+      "cite": "Bill C-22, Lawful Access Act, 2026. Sponsor: Hon. Gary Anandasangaree, Minister of Public Safety. Under study by Senate SECD committee as of Nov. 2026.",
       "sources": [
         [
           "OPC submission to SECU",
           "https://www.priv.gc.ca/en/opc-actions-and-decisions/advice-to-parliament/2026/parl_260526/"
         ],
         [
+          "CBC: Commissioner urges Senate to amend C-22",
+          "https://www.cbc.ca/news/politics/senate-bill-c-22-lawful-access-9.7406213"
+        ],
+        [
           "openparliament.ca",
           "https://openparliament.ca/bills/45-1/C-22/"
         ]
       ],
-      "checked": "2026-10-22"
+      "checked": "2026-11-12"
     },
     {
       "id": "c8",
@@ -269,6 +311,42 @@
         ]
       ],
       "checked": "2026-10-04"
+    },
+    {
+      "id": "crimestoppers",
+      "date": "2026-10-27",
+      "type": "regulator",
+      "jur": "MULTI",
+      "priority": "act",
+      "title": "Crime Stoppers tip breach: federal and BC commissioners investigate",
+      "what": "The federal Privacy Commissioner opened an investigation into Navigate360, the US company that runs the tip platform used by Crime Stoppers programs across Canada, after a breach reported to involve more than 1.5 million tips. BC's commissioner is separately examining BC Crime Stoppers. The federal and Ontario commissioners say they cannot formally investigate Crime Stoppers itself.",
+      "why": "Two lessons. First, outsourcing a system does not outsource the risk: check what your vendors' security and breach terms actually say. Second, there is a gap: PIPEDA generally does not cover non-profits outside commercial activity, so many charities fall outside federal privacy law unless a provincial law applies.",
+      "who": [
+        "smb",
+        "biz",
+        "public"
+      ],
+      "expert": [
+        "OPC investigation is under PIPEDA and directed at Navigate360's safeguards at the time of the incident (announced Oct. 27, 2026).",
+        "BC OIPC is examining BC Crime Stoppers under BC's private-sector law (PIPA), which does cover non-profits. The file is active, so details are limited.",
+        "Reported scale (more than 1.5 million tips over about 25 years) comes from news coverage; the OPC has not confirmed figures. Some police services paused tips through the platform."
+      ],
+      "cite": "OPC investigation into Navigate360 (PIPEDA), announced Oct. 27, 2026; BC OIPC investigation (PIPA).",
+      "sources": [
+        [
+          "CTV News: OPC opens investigation",
+          "https://www.ctvnews.ca/canada/article/privacy-commissioner-opens-investigation-into-crime-stoppers-data-breach/"
+        ],
+        [
+          "CTV News: BC investigation",
+          "https://www.ctvnews.ca/vancouver/vancouver-island/article/bc-crime-stoppers-faces-privacy-investigation-after-breach-involving-tipsters-information/"
+        ],
+        [
+          "BC OIPC",
+          "https://www.oipc.bc.ca/"
+        ]
+      ],
+      "checked": "2026-11-12"
     },
     {
       "id": "westjet",
@@ -492,7 +570,7 @@
           "https://www.bennettjones.com/Insights/Blogs/2026/03/Privacy-Goes-to-the-Top-Court"
         ]
       ],
-      "checked": "2026-10-22"
+      "checked": "2026-11-12"
     },
     {
       "id": "classactions",
