@@ -49,22 +49,23 @@ _Generated from `scan.json` (current to 2026-11-12). Do not edit by hand._
   - [LEGISinfo: C-34](https://www.parl.ca/legisinfo/en/bill/45-1/c-34)
   - [CHPC study page](https://www.ourcommons.ca/Committees/en/CHPC/StudyActivity?studyActivityId=13668976)
   - [LEGISinfo: C-36](https://www.parl.ca/legisinfo/en/bill/45-1/c-36)
-- **The budget pays for the new privacy regulator.**
-  - [Budget 2026 in brief](https://budget.canada.ca/2026/report-rapport/pdf/budget-2026-in-brief.pdf)
+- **The budget pays for the new regulator.**
+  - [Budget 2026, Chapter 5](https://budget.canada.ca/2026/report-rapport/chap5-en.html)
 - **Vendors are your risk.**
   - [CTV News](https://www.ctvnews.ca/canada/article/privacy-commissioner-opens-investigation-into-crime-stoppers-data-breach/)
 - **Still open: children's code and lawful access.**
   - [OPC Children's Privacy Code](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_261020/)
-  - [CBC on C-22](https://www.cbc.ca/news/politics/senate-bill-c-22-lawful-access-9.7406213)
+  - [OPC statement to Senate SECD (Nov. 2, 2026)](https://www.priv.gc.ca/en/opc-actions-and-decisions/advice-to-parliament/2026/parl_261102/)
 
 ### Items
 
-- **Budget 2026 funds the new regulator that would enforce private-sector privacy law** · FED · 2026-11-05 · last checked 2026-11-12
-  - Citation: Budget 2026, tabled Nov. 5, 2026.
-  - [Budget 2026 in brief (PDF)](https://budget.canada.ca/2026/report-rapport/pdf/budget-2026-in-brief.pdf)
-  - [Gowling WLG: Budget 2026 and AI](https://gowlingwlg.com/en-ca/insights-resources/articles/2026/investing-in-intelligence)
+- **Budget 2026 funds the new Digital Safety and Data Protection Commission** · FED · 2026-11-05 · last checked 2026-11-12
+  - Citation: Budget 2026, Chapter 5 (tabled Nov. 5, 2026).
+  - [Budget 2026, Chapter 5](https://budget.canada.ca/2026/report-rapport/chap5-en.html)
+  - [BetaKit](https://betakit.com/ottawa-earmarks-176-million-to-establish-online-super-regulator/)
 - **Crime Stoppers tip breach: federal and BC commissioners investigate** · MULTI · 2026-10-27 · last checked 2026-11-12
   - Citation: OPC investigation into Navigate360 (PIPEDA), announced Oct. 27, 2026; BC OIPC investigation (PIPA).
+  - [OPC news release (Oct. 27, 2026)](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_261027/)
   - [CTV News: OPC opens investigation](https://www.ctvnews.ca/canada/article/privacy-commissioner-opens-investigation-into-crime-stoppers-data-breach/)
   - [CTV News: BC investigation](https://www.ctvnews.ca/vancouver/vancouver-island/article/bc-crime-stoppers-faces-privacy-investigation-after-breach-involving-tipsters-information/)
   - [BC OIPC](https://www.oipc.bc.ca/)
@@ -104,6 +105,7 @@ _Generated from `scan.json` (current to 2026-11-12). Do not edit by hand._
   - [ISED announcement](https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/government-of-canada-launches-public-consultation-on-ai-transparency.html)
 - **Bill C-22: lawful access bill is before a Senate committee** · FED · 2026-06-18 · last checked 2026-11-12
   - Citation: Bill C-22, Lawful Access Act, 2026. Sponsor: Hon. Gary Anandasangaree, Minister of Public Safety. Under study by Senate SECD committee as of Nov. 2026.
+  - [OPC statement to Senate SECD (Nov. 2, 2026)](https://www.priv.gc.ca/en/opc-actions-and-decisions/advice-to-parliament/2026/parl_261102/)
   - [OPC submission to SECU](https://www.priv.gc.ca/en/opc-actions-and-decisions/advice-to-parliament/2026/parl_260526/)
   - [CBC: Commissioner urges Senate to amend C-22](https://www.cbc.ca/news/politics/senate-bill-c-22-lawful-access-9.7406213)
   - [openparliament.ca](https://openparliament.ca/bills/45-1/C-22/)
@@ -153,7 +155,7 @@ _Generated from `scan.json` (current to 2026-11-12). Do not edit by hand._
   - [Baker McKenzie analysis](https://www.bakermckenzie.com/en/insight/publications/2026/03/canada-ontario-ai-scribe-guidance-signals-emerging-regulatory-baseline)
   - [IPC Ontario](https://www.ipc.on.ca/)
 
-_24 items, 45 unique source links._
+_24 items, 47 unique source links._
 <!-- cited:end -->
 
 ## 3. Update log
@@ -165,3 +167,4 @@ _24 items, 45 unique source links._
 | 2026-10-06 | LEGISinfo (C-36, C-34, C-22), SCC docket 41538, OPC news releases, Ontario IPC, Quebec CAI | — | asOf moved to Oct 6; C-36, C-34, C-22 and SCC Facebook items re-verified (no change in status) | — |
 | 2026-10-22 | LEGISinfo / openparliament.ca (C-36, C-34, C-22), OPC news releases, Quebec CAI, BC OIPC, Ontario IPC, SCC docket 41538 (no judgment yet), ISED | Children's Privacy Code (Oct. 20); WestJet investigation closed (Oct. 14); call-recording guidance on voiceprints (Oct. 8) | Clearview item now covers Court of Québec upholding the CAI order (Oct. 16), jurisdiction MULTI; children's sweep item retitled now that the Code is out; C-34 second-reading debate began Oct. 21; C-36 text corrected (second-reading debate not yet begun); brief rewritten; watch list: Code comment deadline added, C-36/C-34 entry updated | Watch entry for the draft Children's Privacy Code (now published) |
 | 2026-11-12 | LEGISinfo / openparliament.ca (C-36, C-34, C-22), CHPC committee page, OPC news, BC OIPC, CAI news and decisions, Ontario IPC, Alberta OIPC, SCC docket (41538), Budget 2026, CBC / CTV coverage | Crime Stoppers / Navigate360 breach investigations (OPC, BC OIPC); Budget 2026 funding for the Digital Safety and Data Protection Commission | C-34 now at committee (referred Oct 29; stage 2); C-22 at Senate SECD committee with OPC call for further amendments; C-36 still not debated (re-verified); SCC Facebook decision still pending (re-verified); all four brief points rewritten; watch list (C-34/C-36, C-22) updated | — |
+| 2026-11-12 (verification pass) | Budget 2026 Ch. 5, OPC news release (Oct. 27) and Senate SECD statement (Nov. 2) | — | Budget item: funding tied to C-34 per budget text (privacy role is via C-36), source now Budget Ch. 5; Crime Stoppers item cites OPC release; C-22 testimony dated Nov. 2 with OPC statement; brief points 2 and 4 | — |

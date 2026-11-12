@@ -20,12 +20,12 @@
       ]
     },
     {
-      "title": "The budget pays for the new privacy regulator.",
-      "text": "Budget 2026 sets aside about $176 million over five years for the Digital Safety and Data Protection Commission, which would take over private-sector privacy enforcement if C-36 passes.",
+      "title": "The budget pays for the new regulator.",
+      "text": "Budget 2026 proposes $176.3 million over five years for the Digital Safety and Data Protection Commission, tied to online safety Bill C-34. If C-36 passes, the same body would also enforce private-sector privacy law.",
       "sources": [
         [
-          "Budget 2026 in brief",
-          "https://budget.canada.ca/2026/report-rapport/pdf/budget-2026-in-brief.pdf"
+          "Budget 2026, Chapter 5",
+          "https://budget.canada.ca/2026/report-rapport/chap5-en.html"
         ]
       ]
     },
@@ -41,15 +41,15 @@
     },
     {
       "title": "Still open: children's code and lawful access.",
-      "text": "Comments on the federal Children's Privacy Code close January 20, 2027. In the Senate, the Commissioner asked for more limits on lawful access Bill C-22.",
+      "text": "Comments on the federal Children's Privacy Code close January 20, 2027. On November 2 the Commissioner told a Senate committee that lawful access Bill C-22 still needs limits.",
       "sources": [
         [
           "OPC Children's Privacy Code",
           "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_261020/"
         ],
         [
-          "CBC on C-22",
-          "https://www.cbc.ca/news/politics/senate-bill-c-22-lawful-access-9.7406213"
+          "OPC statement to Senate SECD (Nov. 2, 2026)",
+          "https://www.priv.gc.ca/en/opc-actions-and-decisions/advice-to-parliament/2026/parl_261102/"
         ]
       ]
     }
@@ -81,7 +81,7 @@
     {
       "when": "Fall 2026",
       "what": "Bill C-22 (lawful access): Senate committee study",
-      "why": "The Privacy Commissioner asked senators for more amendments in early November. Changes could narrow what providers must hand over or retain."
+      "why": "The Privacy Commissioner asked senators for more amendments on November 2. Changes could narrow what providers must hand over or retain."
     },
     {
       "when": "After Sept 23",
@@ -138,8 +138,8 @@
       "type": "policy",
       "jur": "FED",
       "priority": "context",
-      "title": "Budget 2026 funds the new regulator that would enforce private-sector privacy law",
-      "what": "The federal budget, tabled November 5, sets aside about $176 million over five years for the Digital Safety and Data Protection Commission, the body that would take over private-sector privacy enforcement from the Privacy Commissioner under Bills C-36 and C-34. It also includes a national anti-fraud strategy and tougher anti-fraud duties for telecoms.",
+      "title": "Budget 2026 funds the new Digital Safety and Data Protection Commission",
+      "what": "The federal budget, tabled November 5, proposes $176.3 million over five years, plus $29.3 million a year ongoing, to set up the Digital Safety and Data Protection Commission. The budget ties the money to enforcing Bill C-34 (online safety). Under Bill C-36, the same Commission would also take over private-sector privacy enforcement from the Privacy Commissioner.",
       "why": "Funding a regulator is a signal the government means to pass C-36 and C-34, but neither is law yet and budget measures still need legislation. Nothing changes for your organization today.",
       "who": [
         "biz",
@@ -147,19 +147,19 @@
         "telecom"
       ],
       "expert": [
-        "Budget 2026 (\"Masters of Our Destiny\"): $176.3M over five years from 2026–27, then $29.3M per year ongoing, for the Commission (one news report gives $176.6M; budget-based sources say $176.3M).",
-        "Commission is created by Bill C-34 Part 2 and given private-sector privacy enforcement by C-36.",
-        "Anti-fraud measures (telecom requirements, National Anti-Fraud Strategy) need implementing legislation; details not yet published."
+        "Budget 2026, Chapter 5: $176.3M over five years from 2026–27 and $29.3M ongoing, provided to Canadian Heritage to establish the Commission and enforce the Safe Social Media Act.",
+        "The privacy-enforcement role comes from Bill C-36, not the budget; the budget text describes the Commission's C-34 work.",
+        "Budget also proposes tougher anti-fraud requirements for telecoms and a National Anti-Fraud Strategy; these need implementing legislation."
       ],
-      "cite": "Budget 2026, tabled Nov. 5, 2026.",
+      "cite": "Budget 2026, Chapter 5 (tabled Nov. 5, 2026).",
       "sources": [
         [
-          "Budget 2026 in brief (PDF)",
-          "https://budget.canada.ca/2026/report-rapport/pdf/budget-2026-in-brief.pdf"
+          "Budget 2026, Chapter 5",
+          "https://budget.canada.ca/2026/report-rapport/chap5-en.html"
         ],
         [
-          "Gowling WLG: Budget 2026 and AI",
-          "https://gowlingwlg.com/en-ca/insights-resources/articles/2026/investing-in-intelligence"
+          "BetaKit",
+          "https://betakit.com/ottawa-earmarks-176-million-to-establish-online-super-regulator/"
         ]
       ],
       "checked": "2026-11-12"
@@ -253,7 +253,7 @@
       "priority": "watch",
       "title": "Bill C-22: lawful access bill is before a Senate committee",
       "what": "This bill makes it easier for police and CSIS to get information from online service providers, such as confirming whether a provider has a customer, and requires providers to be technically able to help with authorized requests. It has passed the House and is now being studied by the Senate's national security committee.",
-      "why": "If you provide internet, messaging, hosting or other electronic services, this could create new obligations to respond to requests and keep certain data. In early November the Privacy Commissioner told senators the bill still needs to be narrowed, so Senate amendments are possible.",
+      "why": "If you provide internet, messaging, hosting or other electronic services, this could create new obligations to respond to requests and keep certain data. On November 2 the Privacy Commissioner told senators the bill still needs to be narrowed, so Senate amendments are possible.",
       "who": [
         "telecom",
         "tech"
@@ -264,10 +264,14 @@
         "Part 2 enacts the Supporting Authorized Access to Information Act, imposing capability obligations on electronic service providers, including possible metadata retention.",
         "OPC (May 26, 2026) urged: a closed list of subscriber identifiers, limiting demands to telecom providers, a necessity and proportionality test, protection of encryption, and a carve-out letting providers report to privacy regulators.",
         "Successor to the lawful-access parts of Bill C-2 (2025).",
-        "Senate referred the bill to the Standing Senate Committee on National Security, Defence and Veterans Affairs (SECD). In early November 2026 Commissioner Dufresne urged senators to further amend it, including limiting what information a new production order can reach. The Intelligence Commissioner suggested an express necessity and proportionality test for ministerial orders."
+        "Senate referred the bill to the Standing Senate Committee on National Security, Defence and Veterans Affairs (SECD). On Nov. 2, 2026 Commissioner Dufresne told SECD the bill improves on earlier versions but the definition of subscriber information and the range of people it can be demanded from remain broad for a reasonable-suspicion threshold, and \"publicly available\" is undefined. The Intelligence Commissioner suggested an express necessity and proportionality test for ministerial orders."
       ],
       "cite": "Bill C-22, Lawful Access Act, 2026. Sponsor: Hon. Gary Anandasangaree, Minister of Public Safety. Under study by Senate SECD committee as of Nov. 2026.",
       "sources": [
+        [
+          "OPC statement to Senate SECD (Nov. 2, 2026)",
+          "https://www.priv.gc.ca/en/opc-actions-and-decisions/advice-to-parliament/2026/parl_261102/"
+        ],
         [
           "OPC submission to SECU",
           "https://www.priv.gc.ca/en/opc-actions-and-decisions/advice-to-parliament/2026/parl_260526/"
@@ -327,12 +331,16 @@
         "public"
       ],
       "expert": [
-        "OPC investigation is under PIPEDA and directed at Navigate360's safeguards at the time of the incident (announced Oct. 27, 2026).",
+        "OPC investigation is under PIPEDA and examines Navigate360's safeguards at the time of the breach (news release, Oct. 27, 2026). The OPC also contacted Crime Stoppers and Navigate360 to check containment and mitigation steps.",
         "BC OIPC is examining BC Crime Stoppers under BC's private-sector law (PIPA), which does cover non-profits. The file is active, so details are limited.",
         "Reported scale (more than 1.5 million tips over about 25 years) comes from news coverage; the OPC has not confirmed figures. Some police services paused tips through the platform."
       ],
       "cite": "OPC investigation into Navigate360 (PIPEDA), announced Oct. 27, 2026; BC OIPC investigation (PIPA).",
       "sources": [
+        [
+          "OPC news release (Oct. 27, 2026)",
+          "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_261027/"
+        ],
         [
           "CTV News: OPC opens investigation",
           "https://www.ctvnews.ca/canada/article/privacy-commissioner-opens-investigation-into-crime-stoppers-data-breach/"
