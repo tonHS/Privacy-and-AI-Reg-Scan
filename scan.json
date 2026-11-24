@@ -1,17 +1,13 @@
 {
-  "asOf": "2026-11-12",
+  "asOf": "2026-11-24",
   "brief": [
     {
-      "title": "Canada's online safety bill is at committee.",
-      "text": "Bill C-34 passed second reading on October 29 and went to the Canadian Heritage committee, which accepts written briefs. Bill C-36, the PIPEDA replacement, still has not been debated. Neither is law.",
+      "title": "C-34 committee is hearing witnesses; C-36 second reading has begun.",
+      "text": "The Canadian Heritage committee held its first Bill C-34 hearings on November 17 and 19, with sessions continuing through the week of November 24. Bill C-36, the PIPEDA replacement, saw second reading debate begin in the House in early November. Neither is law.",
       "sources": [
         [
           "LEGISinfo: C-34",
           "https://www.parl.ca/legisinfo/en/bill/45-1/c-34"
-        ],
-        [
-          "CHPC study page",
-          "https://www.ourcommons.ca/Committees/en/CHPC/StudyActivity?studyActivityId=13668976"
         ],
         [
           "LEGISinfo: C-36",
@@ -20,12 +16,16 @@
       ]
     },
     {
-      "title": "The budget pays for the new regulator.",
-      "text": "Budget 2026 proposes $176.3 million over five years for the Digital Safety and Data Protection Commission, tied to online safety Bill C-34. If C-36 passes, the same body would also enforce private-sector privacy law.",
+      "title": "Guidance is coming on surveillance pricing and agentic AI.",
+      "text": "On November 23 the Privacy Commissioner told the House ethics committee that his office will consult on how privacy law applies to personalized algorithmic (surveillance) pricing. At the Global Privacy Assembly in Brussels on November 18-19, he sponsored a resolution on privacy-protective agentic AI that was adopted by over 130 data protection authorities.",
       "sources": [
         [
-          "Budget 2026, Chapter 5",
-          "https://budget.canada.ca/2026/report-rapport/chap5-en.html"
+          "CTV News: surveillance pricing (Nov. 23, 2026)",
+          "https://www.ctvnews.ca/canada/article/privacy-commissioner-says-transparency-on-surveillance-pricing-needed/"
+        ],
+        [
+          "OPC news release: GPA conference (Nov. 19, 2026)",
+          "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_gpa_261119/"
         ]
       ]
     },
@@ -40,16 +40,16 @@
       ]
     },
     {
-      "title": "Still open: children's code and lawful access.",
-      "text": "Comments on the federal Children's Privacy Code close January 20, 2027. On November 2 the Commissioner told a Senate committee that lawful access Bill C-22 still needs limits.",
+      "title": "Comments on the Children's Privacy Code close January 20, 2027.",
+      "text": "The OPC's Children's Privacy Code consultation is open until January 20, 2027. The Privacy Commissioner also chairs the Global Privacy Assembly, which adopted a strategy and resolutions on children's privacy, agentic AI and AI in education in Brussels on November 19.",
       "sources": [
         [
           "OPC Children's Privacy Code",
           "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_261020/"
         ],
         [
-          "OPC statement to Senate SECD (Nov. 2, 2026)",
-          "https://www.priv.gc.ca/en/opc-actions-and-decisions/advice-to-parliament/2026/parl_261102/"
+          "OPC news release: GPA conference (Nov. 19, 2026)",
+          "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_gpa_261119/"
         ]
       ]
     }
@@ -66,7 +66,7 @@
     {
       "when": "Any day",
       "what": "Supreme Court decision in Facebook v. Privacy Commissioner",
-      "why": "First top-court ruling on what \"meaningful consent\" means under PIPEDA."
+      "why": "First top-court ruling on what \"meaningful consent\" means under PIPEDA. Heard March 19, 2026; decision still reserved as of November 24."
     },
     {
       "when": "Jan 20, 2027",
@@ -74,19 +74,19 @@
       "why": "The Code may be revised after comments; now is the time to raise practical problems."
     },
     {
-      "when": "Fall 2026",
+      "when": "Fall–Winter 2026",
       "what": "Bill C-34 committee hearings; Bill C-36 second reading",
-      "why": "C-34 went to the Canadian Heritage committee on October 29 and briefs are open. C-36 has not been debated yet. Committee is where the text gets shaped."
+      "why": "C-34 committee (CHPC) began hearings November 17 and is scheduling 16 hours of witness testimony; sessions continue. C-36 second reading debate has begun in the House but no vote is set. Committee is where the text gets shaped."
     },
     {
-      "when": "Fall 2026",
-      "what": "Bill C-22 (lawful access): Senate committee study",
-      "why": "The Privacy Commissioner asked senators for more amendments on November 2. Changes could narrow what providers must hand over or retain."
+      "when": "Fall–Winter 2026",
+      "what": "Bill C-22 (lawful access): Senate committee amendments",
+      "why": "A letter from 26 rights and privacy organizations on November 24 urged the Prime Minister to back targeted amendments before the Senate SECD committee wraps up. Senate votes expected before the December recess."
     },
     {
-      "when": "After Sept 23",
-      "what": "Federal response to the AI transparency consultation",
-      "why": "May lead to rules on labelling AI content and reporting AI incidents."
+      "when": "Coming weeks",
+      "what": "OPC consultation on surveillance (algorithmic) pricing",
+      "why": "Commissioner Dufresne announced on November 23 that the OPC will launch a public consultation on how privacy law applies to personalized pricing. Guidance will follow."
     },
     {
       "when": "No date set",
@@ -95,6 +95,108 @@
     }
   ],
   "items": [
+    {
+      "id": "surveillancepricing",
+      "date": "2026-11-23",
+      "type": "guidance",
+      "jur": "FED",
+      "priority": "prepare",
+      "title": "Privacy Commissioner to consult on surveillance pricing guidance",
+      "what": "On November 23, the Privacy Commissioner appeared before the House Standing Committee on Access to Information, Privacy and Ethics (ETHI), which is studying the use of AI in algorithmic pricing. Commissioner Dufresne said his office will launch a public consultation in the coming weeks on how existing privacy law applies to personalized (surveillance) pricing, to be followed by formal guidance.",
+      "why": "If you set prices based on individual customers' data, you need meaningful consent and must use the data for purposes a reasonable person would consider appropriate. Guidance will clarify the OPC's expectations under PIPEDA before C-36 brings tougher rules.",
+      "who": [
+        "biz",
+        "smb",
+        "tech"
+      ],
+      "expert": [
+        "Commissioner Dufresne told ETHI that people may have little awareness that personal information is influencing the prices they are offered, limiting their ability to recognize or challenge differential treatment.",
+        "Existing framework: meaningful consent (PIPEDA Schedule 1, Principle 4.3) and appropriate purposes (Principle 4.2.1). The Commissioner noted no complaints have yet been received about surveillance pricing.",
+        "Consultation to be announced; guidance expected in months. The ETHI study continues.",
+        "Context: a parallel concern to algorithmic pricing guidance being pursued by competition regulators in Canada and elsewhere."
+      ],
+      "cite": "OPC news release, Nov. 23, 2026; PIPEDA, S.C. 2000, c. 5.",
+      "sources": [
+        [
+          "OPC news release (Nov. 23, 2026)",
+          "https://www.priv.gc.ca/en/opc-news/news-and-announcements/"
+        ],
+        [
+          "CTV News",
+          "https://www.ctvnews.ca/canada/article/privacy-commissioner-says-transparency-on-surveillance-pricing-needed/"
+        ],
+        [
+          "Global News",
+          "https://globalnews.ca/news/12163118/surveillance-pricing-awareness-privacy-commissioner/"
+        ]
+      ],
+      "checked": "2026-11-24"
+    },
+    {
+      "id": "gpa2026",
+      "date": "2026-11-19",
+      "type": "guidance",
+      "jur": "FED",
+      "priority": "prepare",
+      "title": "Global Privacy Assembly adopts agentic AI resolution; Canada's Commissioner chairs",
+      "what": "At its 48th annual conference in Brussels on November 18-19, the Global Privacy Assembly (over 130 data protection and privacy authorities) adopted a four-year strategic plan (2027-2030) and four resolutions: privacy-protective agentic AI (sponsored by Canada), AI in education, privacy-enhancing technologies, and financial crime prevention. Commissioner Dufresne chairs the GPA.",
+      "why": "The agentic AI resolution sets out global expectations for how privacy authorities will approach AI agents. Canadian and international regulators are aligning on this; expect the OPC to publish guidance for Canadian organizations using or deploying agentic AI.",
+      "who": [
+        "tech",
+        "biz"
+      ],
+      "expert": [
+        "GPA resolution on agentic AI: adopted in Closed Session, November 19, 2026. Full text to be published on the GPA website; details not yet publicly confirmed.",
+        "Strategic plan 2027-2030: technology's privacy impacts, vulnerable populations (especially children), and trusted data flows.",
+        "Commissioner Dufresne is current GPA Chair; also met with EDPB, Asia Pacific Privacy Authorities Forum, and G7 Data Protection Authorities.",
+        "Aligns with the OPC's domestic Children's Privacy Code and the AI transparency consultation results, still not published."
+      ],
+      "cite": "OPC news release, Nov. 19, 2026; OPC remarks, Nov. 18, 2026.",
+      "sources": [
+        [
+          "OPC news release (Nov. 19, 2026)",
+          "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_gpa_261119/"
+        ],
+        [
+          "OPC remarks to GPA/IAPP (Nov. 18, 2026)",
+          "https://www.priv.gc.ca/en/opc-news/speeches-and-statements/2026/sp-d_20261118/"
+        ]
+      ],
+      "checked": "2026-11-24"
+    },
+    {
+      "id": "smartdevices",
+      "date": "2026-11-06",
+      "type": "guidance",
+      "jur": "FED",
+      "priority": "prepare",
+      "title": "OPC publishes smart device privacy research from seven funded projects",
+      "what": "On November 6 the OPC released results from seven 2025-2026 Contributions Program projects on the theme \"Connected but exposed: exploring smart devices and privacy.\" Research covers teens and young adults aged 16-24, women's health (FemTech) apps, health-related machine listening, and connected vehicles.",
+      "why": "If you build or sell smart devices, connected apps or health tech, this research signals what the OPC and courts will expect: clear disclosure, meaningful consent, and minimal collection. It is a preview of enforcement and guidance priorities.",
+      "who": [
+        "tech",
+        "smb",
+        "health"
+      ],
+      "expert": [
+        "Seven projects funded under the OPC Contributions Program 2025-2026. Reports published November 6, 2026.",
+        "Topics include: privacy challenges for 16-24-year-olds with smart devices; FemTech app privacy implications; health-related machine listening; connected vehicle data.",
+        "Contributions Program research informs OPC guidance and enforcement priorities; it is not itself binding.",
+        "PIPEDA Schedule 1, Principle 4.4 (limiting collection) and 4.3 (consent) are the operative framework."
+      ],
+      "cite": "OPC, Contributions Program 2025-2026 final reports (released Nov. 6, 2026).",
+      "sources": [
+        [
+          "Lexpert summary",
+          "https://www.lexpert.ca/news/technology-law/canadian-privacy-commissioner-funds-projects-for-smart-device-data-collection-protection-research/393271"
+        ],
+        [
+          "OPC Contributions Program page",
+          "https://www.priv.gc.ca/en/opc-actions-and-decisions/research/funding-for-privacy-research-and-knowledge-translation/cp_bg"
+        ]
+      ],
+      "checked": "2026-11-24"
+    },
     {
       "id": "childcode",
       "date": "2026-10-20",
@@ -130,7 +232,7 @@
           "https://www.priv.gc.ca/en/privacy-topics/privacy-for-businesses/protection-of-children-for-businesses/childrens-privacy-code/children-code-youth-version-2026/"
         ]
       ],
-      "checked": "2026-11-12"
+      "checked": "2026-11-24"
     },
     {
       "id": "budget2026",
@@ -162,7 +264,7 @@
           "https://betakit.com/ottawa-earmarks-176-million-to-establish-online-super-regulator/"
         ]
       ],
-      "checked": "2026-11-12"
+      "checked": "2026-11-24"
     },
     {
       "id": "c36",
@@ -171,8 +273,8 @@
       "jur": "FED",
       "priority": "prepare",
       "title": "Bill C-36: a new federal private-sector privacy law is before Parliament",
-      "what": "The government has tabled the Protecting Privacy and Consumer Data Act. It would replace the privacy part of PIPEDA, the law most Canadian businesses follow today. It was introduced in June, but as of mid-November second-reading debate has not yet begun in the House.",
-      "why": "If it passes, privacy mistakes could cost real money. The new commission could impose penalties of up to $10 million or 3% of worldwide revenue, and the most serious offences, such as knowingly breaking key rules or obstructing an investigation, carry fines of up to $25 million or 5%. People could also sue after a regulator finds a violation. Nothing changes for you yet, but this is the moment to find out what personal information you hold and where it goes.",
+      "what": "The government has tabled the Protecting Privacy and Consumer Data Act. It would replace the privacy part of PIPEDA, the law most Canadian businesses follow today. It was introduced in June. Second-reading debate began in the House in early November 2026 but has not yet concluded.",
+      "why": "If it passes, privacy mistakes could cost real money. The new commission could impose penalties of up to $10 million or 3% of worldwide revenue, and the most serious offences carry fines of up to $25 million or 5%. People could also sue after a regulator finds a violation. Nothing changes for you yet, but this is the moment to find out what personal information you hold and where it goes.",
       "who": [
         "smb",
         "biz",
@@ -182,6 +284,7 @@
       "stage": 1,
       "expert": [
         "Repeals Part 1 of PIPEDA and enacts the Protecting Privacy and Consumer Data Act. AIDA is not revived; AI regulation is left out of this bill.",
+        "Bill C-36 cannot come into force until Bill C-34 is also enacted and in force: its coming-into-force provisions are contingent on C-34.",
         "Enforcement moves to a new federal commission with direct power to impose administrative monetary penalties of up to the greater of $10M or 3% of gross global revenue (s. 114). Review is by the Federal Court rather than C-27's proposed Personal Information and Data Protection Tribunal.",
         "Highest penalties are for offences (s. 145): knowingly contravening ss. 58, 60(1), 69, 75 or 144(1) or an order under s. 110(1), or obstructing a Commissioner investigation or audit or Commission proceedings. On indictment, fines up to the greater of $25M or 5% of gross global revenue; on summary conviction, up to the greater of $20M or 4%.",
         "\"Personal information\" expressly includes inferences about an individual. New \"sensitive information\" category covers children's information, racial or ethnic origin, political opinions, religious beliefs and biometrics.",
@@ -189,7 +292,8 @@
         "Consent exceptions for business activities and legitimate interests (now extended to disclosure), conditioned on a documented privacy impact assessment the Commission can request.",
         "Privacy impact assessment required before transferring personal information outside Canada, which goes beyond C-27.",
         "Right to an explanation of predictions, recommendations or decisions by automated systems with significant impacts.",
-        "Private right of action following a Commission finding of contravention."
+        "Private right of action following a Commission finding of contravention.",
+        "Second reading debate: began in the House (Hansard Nov. 3 and ongoing). No vote set as of Nov. 24, 2026."
       ],
       "cite": "Bill C-36, 45th Parl., 1st Sess. Sponsor: Hon. Evan Solomon, Minister of Artificial Intelligence and Digital Innovation. First reading June 15, 2026.",
       "sources": [
@@ -206,7 +310,7 @@
           "https://www.weirfoulds.com/bill-c-36-and-the-future-of-canadas-federal-private-sector-privacy-law-what-has-changed-what-it-means-and-what-to-do-now"
         ]
       ],
-      "checked": "2026-11-12"
+      "checked": "2026-11-24"
     },
     {
       "id": "c34",
@@ -214,8 +318,8 @@
       "type": "legislation",
       "jur": "FED",
       "priority": "watch",
-      "title": "Bill C-34: Safe Social Media Act would restrict accounts for under-16s and cover AI chatbots",
-      "what": "A companion to C-36 that sets safety duties for social media platforms and AI chatbot services, including an under-16 account restriction, tools to block and report harmful content, and labelling of AI-generated content. A new Digital Safety Commission would enforce it. The House passed it at second reading on October 29 and sent it to the Canadian Heritage committee, which has not yet held hearings.",
+      "title": "Bill C-34: Safe Social Media Act — committee hearings underway",
+      "what": "A companion to C-36 that sets safety duties for social media platforms and AI chatbot services, including an under-16 account restriction, tools to block and report harmful content, and labelling of AI-generated content. A new Digital Safety Commission would enforce it. The House passed it at second reading on October 29. The Canadian Heritage committee (CHPC) held its first hearings on November 17 and 19, with sessions continuing the week of November 24. The committee approved at least 16 hours of witness testimony.",
       "why": "Most small organizations won't be regulated directly. If you run an online community, app or chatbot used by young people, watch this closely, because age checks raise their own privacy questions.",
       "who": [
         "tech"
@@ -226,7 +330,7 @@
         "Under-16 account restriction can be exempted where the regulator is satisfied sufficient safeguards exist.",
         "Part 2 creates the Digital Safety Commission of Canada with audit, compliance-order and AMP powers.",
         "Privacy angle: accredited researchers get a regulator-supervised, \"privacy-preserving\" route to platform data. Age-assurance methods are left to regulation and guidance.",
-        "Second reading agreed to Oct. 29, 2026; referred to the Standing Committee on Canadian Heritage (CHPC). As of Nov. 12 no committee meetings had been held; CHPC accepts written briefs of up to 2,000 words."
+        "Second reading agreed to Oct. 29, 2026; referred to CHPC. Committee meetings: Nov. 17 (meeting 53) and Nov. 19 (meeting 54) held. Witnesses at first hearings included Canadian Constitution Foundation, Raise the Age Canada, Amanda Todd Legacy Society, Kids Help Phone, and OpenMedia. Next meeting scheduled Nov. 24 at 3:30 p.m. CHPC accepts written briefs of up to 2,000 words."
       ],
       "cite": "Bill C-34, 45th Parl., 1st Sess. Introduced June 10, 2026 (Canadian Heritage). Referred to CHPC Oct. 29, 2026.",
       "sources": [
@@ -241,9 +345,13 @@
         [
           "Government backgrounder",
           "https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-introduces-legislation-to-combat-online-harms-particularly-those-impacting-children.html"
+        ],
+        [
+          "National Observer: committee testimony (Nov. 23, 2026)",
+          "https://www.nationalobserver.com/2026/11/23/news/youth-social-media-ban-committee"
         ]
       ],
-      "checked": "2026-11-12"
+      "checked": "2026-11-24"
     },
     {
       "id": "c22",
@@ -251,9 +359,9 @@
       "type": "legislation",
       "jur": "FED",
       "priority": "watch",
-      "title": "Bill C-22: lawful access bill is before a Senate committee",
-      "what": "This bill makes it easier for police and CSIS to get information from online service providers, such as confirming whether a provider has a customer, and requires providers to be technically able to help with authorized requests. It has passed the House and is now being studied by the Senate's national security committee.",
-      "why": "If you provide internet, messaging, hosting or other electronic services, this could create new obligations to respond to requests and keep certain data. On November 2 the Privacy Commissioner told senators the bill still needs to be narrowed, so Senate amendments are possible.",
+      "title": "Bill C-22: lawful access bill — civil society urges Senate amendments",
+      "what": "This bill makes it easier for police and CSIS to get information from online service providers, such as confirming whether a provider has a customer, and requires providers to be technically able to help with authorized requests. It has passed the House and is now being studied by the Senate's national security committee. On November 24 a letter from 26 rights, refugee and privacy organizations urged the Prime Minister to back targeted amendments before the committee finishes its work.",
+      "why": "If you provide internet, messaging, hosting or other electronic services, this could create new obligations to respond to requests and keep certain data. Senate amendments are still possible and expected before the December recess.",
       "who": [
         "telecom",
         "tech"
@@ -262,9 +370,10 @@
       "expert": [
         "Part 1 amends the Criminal Code and related statutes: expedited confirmation of subscriber information, clarified authority to examine computer data, and orders for transmission data held by foreign providers. Critics flag a \"reasonable suspicion\" threshold for some powers.",
         "Part 2 enacts the Supporting Authorized Access to Information Act, imposing capability obligations on electronic service providers, including possible metadata retention.",
+        "House made limited amendments before passing the bill: metadata retention period reduced from one year to six months; a narrow compelled-decryption clause added.",
         "OPC (May 26, 2026) urged: a closed list of subscriber identifiers, limiting demands to telecom providers, a necessity and proportionality test, protection of encryption, and a carve-out letting providers report to privacy regulators.",
         "Successor to the lawful-access parts of Bill C-2 (2025).",
-        "Senate referred the bill to the Standing Senate Committee on National Security, Defence and Veterans Affairs (SECD). On Nov. 2, 2026 Commissioner Dufresne told SECD the bill improves on earlier versions but the definition of subscriber information and the range of people it can be demanded from remain broad for a reasonable-suspicion threshold, and \"publicly available\" is undefined. The Intelligence Commissioner suggested an express necessity and proportionality test for ministerial orders."
+        "Senate referred the bill to the Standing Senate Committee on National Security, Defence and Veterans Affairs (SECD). On Nov. 2, 2026 Commissioner Dufresne told SECD the definition of subscriber information and the range of people it can be demanded from remain broad for a reasonable-suspicion threshold. Nov. 24, 2026: 26 civil-society organizations wrote to PM Carney urging him to back Senate amendments."
       ],
       "cite": "Bill C-22, Lawful Access Act, 2026. Sponsor: Hon. Gary Anandasangaree, Minister of Public Safety. Under study by Senate SECD committee as of Nov. 2026.",
       "sources": [
@@ -281,11 +390,15 @@
           "https://www.cbc.ca/news/politics/senate-bill-c-22-lawful-access-9.7406213"
         ],
         [
+          "Michael Geist: three fixes for C-22 (Nov. 2026)",
+          "https://www.michaelgeist.ca/2026/11/three-fixes-for-lawful-access-making-the-case-for-amending-bill-c-22-at-the-senate-national-security-committee/"
+        ],
+        [
           "openparliament.ca",
           "https://openparliament.ca/bills/45-1/C-22/"
         ]
       ],
-      "checked": "2026-11-12"
+      "checked": "2026-11-24"
     },
     {
       "id": "c8",
@@ -354,7 +467,7 @@
           "https://www.oipc.bc.ca/"
         ]
       ],
-      "checked": "2026-11-12"
+      "checked": "2026-11-24"
     },
     {
       "id": "westjet",
@@ -555,7 +668,7 @@
       "jur": "FED",
       "priority": "watch",
       "title": "Supreme Court has heard Facebook v. Privacy Commissioner; decision pending",
-      "what": "Canada's top court is deciding whether Facebook broke PIPEDA by letting third-party apps access users' data in the Cambridge Analytica affair. The Federal Court of Appeal said it did. The hearing was in March and the judgment is reserved.",
+      "what": "Canada's top court is deciding whether Facebook broke PIPEDA by letting third-party apps access users' data in the Cambridge Analytica affair. The Federal Court of Appeal said it did. The hearing was in March and the judgment is reserved. As of November 24, 2026 no decision has been released.",
       "why": "The ruling will set the standard for what \"meaningful consent\" means in Canada, which affects how every organization writes privacy notices and terms of service.",
       "who": [
         "biz",
@@ -565,7 +678,8 @@
       "expert": [
         "Issues: meaningful consent for disclosures to third-party apps, and safeguards (oversight of third-party apps' practices).",
         "FCA (2024 FCA 140) held that terms clear on their face do not necessarily produce meaningful consent and that Facebook failed to monitor and enforce app developers' practices.",
-        "Leave granted June 12, 2025; heard March 19, 2026. Parties filed lock-up undertakings in July 2026."
+        "Leave granted June 12, 2025; heard March 19, 2026. Parties filed lock-up undertakings in July 2026.",
+        "Decision still reserved as of November 24, 2026; no release date announced."
       ],
       "cite": "Facebook, Inc. v. Privacy Commissioner of Canada, SCC No. 41538.",
       "sources": [
@@ -578,7 +692,7 @@
           "https://www.bennettjones.com/Insights/Blogs/2026/03/Privacy-Goes-to-the-Top-Court"
         ]
       ],
-      "checked": "2026-11-12"
+      "checked": "2026-11-24"
     },
     {
       "id": "classactions",
@@ -674,9 +788,9 @@
       "type": "consultation",
       "jur": "FED",
       "priority": "watch",
-      "title": "AI transparency consultation closed September 23",
-      "what": "Innovation, Science and Economic Development Canada asked how to tell people when they are dealing with AI or AI-generated content, how to track serious AI incidents, and how to monitor AI agents.",
-      "why": "The consultation is closed. If rules follow, businesses that use chatbots or generate content with AI may need to disclose it.",
+      "title": "AI transparency consultation closed September 23; results not yet published",
+      "what": "Innovation, Science and Economic Development Canada asked how to tell people when they are dealing with AI or AI-generated content, how to track serious AI incidents, and how to monitor AI agents. The consultation closed September 23. As of November 24, 2026, ISED has not published results.",
+      "why": "If rules follow, businesses that use chatbots or generate content with AI may need to disclose it. The Global Privacy Assembly's November resolution on agentic AI signals where international thinking is heading.",
       "who": [
         "tech",
         "biz",
@@ -684,7 +798,8 @@
       ],
       "expert": [
         "Topics: detection and identification of AI-generated content, notice of AI interaction, transparency about capabilities and limits, serious incident tracking, and monitoring of AI agents.",
-        "Linked to the National AI Strategy; no legislative vehicle announced."
+        "Linked to the National AI Strategy; no legislative vehicle announced.",
+        "Results expected before or alongside any proposed rules; no publication date confirmed."
       ],
       "cite": "ISED consultation, July 23 – Sept. 23, 2026.",
       "sources": [
@@ -693,7 +808,7 @@
           "https://www.canada.ca/en/innovation-science-economic-development/news/2026/07/government-of-canada-launches-public-consultation-on-ai-transparency.html"
         ]
       ],
-      "checked": "2026-10-22"
+      "checked": "2026-11-24"
     },
     {
       "id": "privacyact",
@@ -736,7 +851,8 @@
       "expert": [
         "Report title: Transparence et vie privée : protéger la démocratie à l'ère numérique (tabled June 11, 2026).",
         "Short term: legislative changes including a centralized, browser-level preference signal. Long term: a fundamental rethink of the role of consent.",
-        "Also recommends access-to-information reform and changes to the health information regime (LRSSS)."
+        "Also recommends access-to-information reform and changes to the health information regime (LRSSS).",
+        "Report also recommends that algorithmic inferences qualify as personal information and that all data brokers be subject to stricter rules."
       ],
       "cite": "CAI, rapport quinquennal 2026, ss. 2.1.1 and 2.2; CAI news item, Oct. 1, 2026.",
       "sources": [
